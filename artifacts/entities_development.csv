@@ -1,0 +1,782 @@
+City,Country,Latitude,Longitude,complete_years,uncertainty_max_months,variability_max_months,exact_match,circular_distance,uncertainty_tie,variability_tie,split
+A Coruña,Spain,42.59N,8.73W,97,1,1,True,0,False,False,development
+Abakan,Russia,53.84N,91.36E,29,1,1,True,0,False,False,development
+Achalpur,India,21.70N,77.02E,43,1,1,True,0,False,False,development
+Acheng,China,45.81N,128.08E,29,1,1,True,0,False,False,development
+Achinsk,Russia,57.05N,90.00E,29,1,1,True,0,False,False,development
+Adana,Turkey,36.17N,35.80E,55,12,12,True,0,False,False,development
+Adilabad,India,20.09N,78.48E,43,1,1,True,0,False,False,development
+Ahmadabad,India,23.31N,72.52E,43,1,1,True,0,False,False,development
+Ahmadnagar,India,18.48N,74.37E,43,1,1,True,0,False,False,development
+Aksaray,Turkey,37.78N,34.58E,68,1,12,False,1,False,False,development
+Akyab,Burma,20.09N,92.13E,43,1,1,True,0,False,False,development
+Alcalá De Henares,Spain,40.99N,4.26W,97,1,1,True,0,False,False,development
+Aleppo,Syria,36.17N,37.79E,42,12,12,True,0,False,False,development
+Algiers,Algeria,36.17N,3.98E,97,1,1,True,0,False,False,development
+Aligarh,India,28.13N,77.27E,43,3,1,False,2,False,False,development
+Allahabad,India,24.92N,81.58E,43,1,1,True,0,False,False,development
+Almería,Spain,36.17N,1.99W,97,1,1,True,0,False,False,development
+Almetyevsk,Russia,55.45N,51.02E,95,1,12,False,1,False,False,development
+Amadora,Portugal,39.38N,8.32W,97,1,1,True,0,False,False,development
+Ambattur,India,13.66N,80.09E,43,2,7,False,5,False,False,development
+Ambur,India,12.05N,78.90E,43,1,7,False,6,False,False,development
+Amersfoort,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,development
+Amiens,France,49.03N,2.45E,97,1,1,True,0,False,False,development
+Amroha,India,28.13N,79.09E,43,3,1,False,2,False,False,development
+Amsterdam,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,development
+Anantapur,India,15.27N,77.50E,43,1,1,True,0,False,False,development
+Anda,China,45.81N,125.77E,29,1,1,True,0,False,False,development
+Antwerp,Belgium,50.63N,3.80E,97,1,1,True,0,False,False,development
+Apeldoorn,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,development
+Apodaca,Mexico,26.52N,100.30W,22,1,11,False,2,False,False,development
+Ara,India,24.92N,85.12E,43,1,1,True,0,False,False,development
+Arad,Romania,45.81N,21.92E,97,1,1,True,0,False,False,development
+Ardabil,Iran,37.78N,48.81E,27,12,12,True,0,False,False,development
+Arlington,United States,39.38N,76.99W,81,1,2,False,1,False,False,development
+Armavir,Russia,45.81N,40.38E,95,1,12,False,1,False,False,development
+Arvada,United States,39.38N,106.13W,29,12,2,False,2,False,False,development
+Asfi,Morocco,32.95N,8.62W,58,1,3,False,2,False,False,development
+Ashdod,Israel,31.35N,33.93E,38,12,3,False,3,False,False,development
+Astrakhan,Russia,45.81N,47.31E,50,1,12,False,1,False,False,development
+Atlanta,United States,34.56N,83.68W,81,1,2,False,1,False,False,development
+Augsburg,Germany,47.42N,10.66E,97,2,1,False,1,False,False,development
+Aurangabad,India,20.09N,75.07E,43,1,1,True,0,False,False,development
+Aurora,United States,39.38N,104.05W,29,12,2,False,2,False,False,development
+Aurora,United States,40.99N,87.34W,83,1,2,False,1,False,False,development
+Avadi,India,13.66N,80.09E,43,2,7,False,5,False,False,development
+Babol,Iran,36.17N,51.71E,22,1,12,False,1,False,False,development
+Bacau,Romania,45.81N,26.54E,97,1,12,False,1,False,False,development
+Badajoz,Spain,39.38N,6.24W,97,1,1,True,0,False,False,development
+Bago,Burma,16.87N,97.12E,40,1,12,False,1,False,False,development
+Bahadurgarh,India,28.13N,77.27E,43,3,1,False,2,False,False,development
+Baharampur,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Bahraich,India,28.13N,80.91E,43,3,1,False,2,False,False,development
+Baia Mare,Romania,47.42N,22.50E,97,1,1,True,0,False,False,development
+Baicheng,China,45.81N,123.46E,29,1,1,True,0,False,False,development
+Baidyabati,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Baiyin,China,36.17N,103.43E,22,2,12,False,2,False,False,development
+Baku,Azerbaijan,40.99N,48.99E,38,12,12,True,0,False,False,development
+Balakovo,Russia,52.24N,47.30E,95,2,12,False,2,False,False,development
+Balashikha,Russia,55.45N,36.85E,97,1,12,False,1,False,False,development
+Baleshwar,India,21.70N,87.40E,43,1,1,True,0,False,False,development
+Bally,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Banda,India,24.92N,79.80E,43,"1,2",1,True,0,True,False,development
+Banda Aceh,Indonesia,5.63N,95.25E,41,1,1,True,0,False,False,development
+Bandar E Anzali,Iran,37.78N,48.81E,27,12,12,True,0,False,False,development
+Bangaon,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Bansbaria,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Baranagar,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Barcelona,Spain,40.99N,2.13E,97,1,1,True,0,False,False,development
+Barddhaman,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Bareli,India,28.13N,79.09E,43,3,1,False,2,False,False,development
+Bari,Italy,40.99N,17.04E,97,1,1,True,0,False,False,development
+Baripada,India,21.70N,87.40E,43,1,1,True,0,False,False,development
+Barsi,India,18.48N,76.06E,43,1,1,True,0,False,False,development
+Basel,Switzerland,47.42N,8.29E,97,2,1,False,1,False,False,development
+Bat Yam,Israel,31.35N,33.93E,38,12,3,False,3,False,False,development
+Bataysk,Russia,47.42N,39.08E,96,1,12,False,1,False,False,development
+Batman,Turkey,37.78N,40.68E,42,12,12,True,0,False,False,development
+Bayamo,Cuba,20.09N,76.78W,27,12,12,True,0,False,False,development
+Beawar,India,26.52N,73.43E,43,3,1,False,2,False,False,development
+Begusarai,India,24.92N,86.90E,43,1,1,True,0,False,False,development
+Beian,China,47.42N,126.71E,29,1,1,True,0,False,False,development
+Beipiao,China,40.99N,121.42E,28,2,12,False,2,False,False,development
+Belgorod,Russia,50.63N,36.76E,97,1,12,False,1,False,False,development
+Belgrade,Serbia,44.20N,20.12E,97,1,1,True,0,False,False,development
+Bene Beraq,Israel,32.95N,35.43E,41,12,12,True,0,False,False,development
+Benghazi,Libya,32.95N,20.11E,95,1,1,True,0,False,False,development
+Beni Suef,Egypt,29.74N,31.38E,38,12,3,False,3,False,False,development
+Bergen,Norway,60.27N,6.49E,97,1,2,False,1,False,False,development
+Berlin,Germany,52.24N,13.14E,97,1,1,True,0,False,False,development
+Bern,Switzerland,47.42N,8.29E,97,2,1,False,1,False,False,development
+Besançon,France,47.42N,5.92E,97,1,1,True,0,False,False,development
+Bettiah,India,26.52N,84.18E,43,1,1,True,0,False,False,development
+Bhadravati,India,13.66N,75.14E,43,2,1,False,1,False,False,development
+Bhagalpur,India,24.92N,86.90E,43,1,1,True,0,False,False,development
+Bharuch,India,21.70N,73.56E,43,1,1,True,0,False,False,development
+Bhilai,India,21.70N,82.21E,43,2,1,False,1,False,False,development
+Bhilwara,India,24.92N,74.48E,43,1,1,True,0,False,False,development
+Bhind,India,26.52N,78.81E,43,3,1,False,2,False,False,development
+Bhiwandi,India,20.09N,73.36E,43,1,1,True,0,False,False,development
+Bhiwani,India,28.13N,75.45E,43,3,1,False,2,False,False,development
+Bhubaneswar,India,20.09N,85.31E,43,2,1,False,1,False,False,development
+Bialystok,Poland,53.84N,23.18E,97,1,1,True,0,False,False,development
+Bid,India,18.48N,76.06E,43,1,1,True,0,False,False,development
+Bielefeld,Germany,52.24N,7.88E,97,1,1,True,0,False,False,development
+Bihar,India,24.92N,85.12E,43,1,1,True,0,False,False,development
+Bikaner,India,28.13N,73.64E,43,3,1,False,2,False,False,development
+Bilaspur,India,21.70N,82.21E,43,2,1,False,1,False,False,development
+Bilbao,Spain,42.59N,2.18W,97,1,1,True,0,False,False,development
+Birganj,Nepal,26.52N,84.18E,43,1,1,True,0,False,False,development
+Birmingham,United States,32.95N,87.13W,81,1,2,False,1,False,False,development
+Blackburn,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Blackpool,United Kingdom,53.84N,4.09W,97,1,1,True,0,False,False,development
+Bolton,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Bombay,India,18.48N,72.68E,43,1,1,True,0,False,False,development
+Bordeaux,France,44.20N,0.00W,97,1,1,True,0,False,False,development
+Borujerd,Iran,34.56N,48.65E,24,1,12,False,1,False,False,development
+Boston,United States,42.59N,72.00W,81,1,2,False,1,False,False,development
+Botad,India,21.70N,71.83E,41,1,1,True,0,False,False,development
+Botosani,Romania,47.42N,27.24E,97,1,12,False,1,False,False,development
+Bottrop,Germany,52.24N,7.88E,97,1,1,True,0,False,False,development
+Bournemouth,United Kingdom,50.63N,1.27W,97,1,1,True,0,False,False,development
+Bradford,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Braga,Portugal,40.99N,8.52W,97,1,1,True,0,False,False,development
+Brahmapur,India,18.48N,84.51E,43,2,1,False,1,False,False,development
+Braila,Romania,45.81N,28.85E,97,1,12,False,1,False,False,development
+Brasov,Romania,45.81N,26.54E,97,1,12,False,1,False,False,development
+Bratsk,Russia,55.45N,102.05E,29,1,1,True,0,False,False,development
+Breda,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,development
+Brescia,Italy,45.81N,10.38E,97,1,1,True,0,False,False,development
+Brest,Belarus,52.24N,23.65E,97,1,1,True,0,False,False,development
+Brest,France,49.03N,4.90W,97,1,1,True,0,False,False,development
+Bridgeport,United States,40.99N,72.43W,81,1,2,False,1,False,False,development
+Brighton,United Kingdom,50.63N,1.27W,97,1,1,True,0,False,False,development
+Brno,Czech Republic,49.03N,17.14E,97,1,1,True,0,False,False,development
+Brugge,Belgium,50.63N,3.80E,97,1,1,True,0,False,False,development
+Brussels,Belgium,50.63N,3.80E,97,1,1,True,0,False,False,development
+Bryansk,Russia,53.84N,34.09E,97,1,12,False,1,False,False,development
+Bucharest,Romania,44.20N,26.83E,97,1,12,False,1,False,False,development
+Buffalo,United States,42.59N,78.55W,83,1,2,False,1,False,False,development
+Burgos,Spain,42.59N,4.36W,97,1,1,True,0,False,False,development
+Bydgoszcz,Poland,53.84N,17.73E,97,1,1,True,0,False,False,development
+Cagliari,Italy,39.38N,8.32E,97,1,1,True,0,False,False,development
+Calcutta,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Calgary,Canada,50.63N,112.82W,35,1,1,True,0,False,False,development
+Camagüey,Cuba,21.70N,78.75W,27,12,12,True,0,False,False,development
+Cambridge,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,development
+Campeche,Mexico,20.09N,90.43W,22,12,12,True,0,False,False,development
+Cancún,Mexico,21.70N,87.40W,27,12,12,True,0,False,False,development
+Cap Haïtien,Haiti,20.09N,71.66W,23,12,12,True,0,False,False,development
+Cardiff,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,development
+Carmen,Mexico,18.48N,91.27W,22,3,12,False,3,False,False,development
+Carrefour,Haiti,18.48N,72.68W,20,12,12,True,0,False,False,development
+Cary,United States,36.17N,79.56W,81,1,2,False,1,False,False,development
+Cedar Rapids,United States,42.59N,91.64W,83,1,2,False,1,False,False,development
+Chandpur,Bangladesh,23.31N,90.00E,43,1,1,True,0,False,False,development
+Changchun,China,44.20N,125.22E,28,12,1,False,1,False,False,development
+Chaoyang,China,40.99N,121.42E,28,2,12,False,2,False,False,development
+Charleroi,Belgium,50.63N,3.80E,97,1,1,True,0,False,False,development
+Chas,India,23.31N,86.50E,43,1,1,True,0,False,False,development
+Chattanooga,United States,34.56N,85.62W,81,1,2,False,1,False,False,development
+Chavakachcheri,Sri Lanka,8.84N,80.27E,43,2,7,False,5,False,False,development
+Cheltenham,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,development
+Chernivtsi,Ukraine,49.03N,26.94E,97,1,12,False,1,False,False,development
+Chesapeake,United States,36.17N,75.58W,81,1,2,False,1,False,False,development
+Chetumal,Mexico,18.48N,87.89W,22,12,12,True,0,False,False,development
+Chhatarpur,India,24.92N,79.80E,43,"1,2",1,True,0,True,False,development
+Chhindwara,India,21.70N,78.75E,43,1,1,True,0,False,False,development
+Chisinau,Moldova,47.42N,29.61E,97,1,12,False,1,False,False,development
+Chita,Russia,52.24N,112.99E,29,1,1,True,0,False,False,development
+Chitradurga,India,13.66N,76.79E,43,1,7,False,6,False,False,development
+Choloma,Honduras,15.27N,87.50W,21,12,12,True,0,False,False,development
+Chorzow,Poland,50.63N,19.01E,97,1,1,True,0,False,False,development
+Churu,India,28.13N,75.45E,43,3,1,False,2,False,False,development
+Ciego De Ávila,Cuba,21.70N,78.75W,27,12,12,True,0,False,False,development
+Clarksville,United States,36.17N,87.51W,81,1,2,False,1,False,False,development
+Cleveland,United States,40.99N,80.95W,81,1,2,False,1,False,False,development
+Coimbra,Portugal,40.99N,8.52W,97,1,1,True,0,False,False,development
+Colchester,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,development
+Colombo,Sri Lanka,7.23N,80.27E,43,2,1,False,1,False,False,development
+Columbus,United States,32.95N,85.21W,81,1,2,False,1,False,False,development
+Columbus,United States,39.38N,83.24W,81,1,2,False,1,False,False,development
+Cork,Ireland,52.24N,7.88W,97,1,1,True,0,False,False,development
+Corpus Christi,United States,28.13N,97.27W,28,1,11,False,2,False,False,development
+Cottbus,Germany,52.24N,13.14E,97,1,1,True,0,False,False,development
+Coventry,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,development
+Craiova,Romania,44.20N,24.60E,97,1,1,True,0,False,False,development
+Crawley,United Kingdom,50.63N,1.27W,97,1,1,True,0,False,False,development
+Czestochowa,Poland,50.63N,19.01E,97,1,1,True,0,False,False,development
+Dahuk,Iraq,36.17N,43.76E,35,12,12,True,0,False,False,development
+Dallas,United States,32.95N,96.70W,30,12,2,False,2,False,False,development
+Damascus,Syria,32.95N,35.43E,41,12,12,True,0,False,False,development
+Dasoguz,Turkmenistan,40.99N,59.64E,23,1,12,False,1,False,False,development
+Debrecen,Hungary,47.42N,22.50E,97,1,1,True,0,False,False,development
+Dehri,India,24.92N,83.35E,43,1,1,True,0,False,False,development
+Dehui,China,44.20N,125.22E,28,12,1,False,1,False,False,development
+Dekernes,Egypt,31.35N,32.04E,43,12,3,False,3,False,False,development
+Delhi,India,28.13N,77.27E,43,3,1,False,2,False,False,development
+Denizli,Turkey,37.78N,28.47E,95,1,1,True,0,False,False,development
+Denton,United States,32.95N,96.70W,30,12,2,False,2,False,False,development
+Denver,United States,39.38N,104.05W,29,12,2,False,2,False,False,development
+Derbent,Russia,42.59N,48.00E,49,1,12,False,1,False,False,development
+Detroit,United States,42.59N,82.91W,83,1,2,False,1,False,False,development
+Dhaka,Bangladesh,23.31N,90.00E,43,1,1,True,0,False,False,development
+Dhanbad,India,23.31N,86.50E,43,1,1,True,0,False,False,development
+Dharan,Nepal,26.52N,87.76E,43,1,1,True,0,False,False,development
+Dhaulpur,India,26.52N,77.01E,43,2,1,False,1,False,False,development
+Dijon,France,47.42N,5.92E,97,1,1,True,0,False,False,development
+Dimitrovgrad,Russia,53.84N,50.45E,95,1,12,False,1,False,False,development
+Dinajpur,Bangladesh,24.92N,88.67E,43,3,1,False,2,False,False,development
+Dingzhou,China,39.38N,114.45E,28,2,12,False,2,False,False,development
+Dortmund,Germany,52.24N,7.88E,97,1,1,True,0,False,False,development
+Dresden,Germany,50.63N,13.94E,97,2,1,False,1,False,False,development
+Drobeta Turnu Severin,Romania,44.20N,22.36E,97,1,1,True,0,False,False,development
+Dublin,Ireland,53.84N,6.82W,97,1,1,True,0,False,False,development
+Dudley,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,development
+Duisburg,Germany,50.63N,6.34E,97,1,1,True,0,False,False,development
+Dum Dum,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Dundee,United Kingdom,57.05N,4.43W,97,1,1,True,0,False,False,development
+Durham,United States,36.17N,79.56W,81,1,2,False,1,False,False,development
+Düsseldorf,Germany,50.63N,6.34E,97,1,1,True,0,False,False,development
+Eastbourne,United Kingdom,50.63N,1.27E,97,1,1,True,0,False,False,development
+Ede,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,development
+Edirne,Turkey,42.59N,26.18E,97,1,12,False,1,False,False,development
+Edison,United States,40.99N,74.56W,81,1,2,False,1,False,False,development
+Edmonton,Canada,53.84N,113.18W,27,12,1,False,1,False,False,development
+Ekibastuz,Kazakhstan,52.24N,76.20E,29,1,1,True,0,False,False,development
+El Faiyûm,Egypt,29.74N,31.38E,38,12,3,False,3,False,False,development
+El Mahalla El Kubra,Egypt,31.35N,32.04E,43,12,3,False,3,False,False,development
+El Progreso,Honduras,15.27N,87.50W,21,12,12,True,0,False,False,development
+Elbasan,Albania,40.99N,19.17E,97,1,1,True,0,False,False,development
+Elektrostal,Russia,55.45N,39.69E,97,1,12,False,1,False,False,development
+Eluru,India,16.87N,80.37E,43,2,1,False,1,False,False,development
+Engels,Russia,50.63N,46.90E,95,2,12,False,2,False,False,development
+Enschede,Netherlands,52.24N,7.88E,97,1,1,True,0,False,False,development
+Erfurt,Germany,50.63N,11.41E,97,1,1,True,0,False,False,development
+Esenyurt,Turkey,40.99N,27.69E,97,1,12,False,1,False,False,development
+Eslamshahr,Iran,36.17N,51.71E,22,1,12,False,1,False,False,development
+Etah,India,28.13N,79.09E,43,3,1,False,2,False,False,development
+Etawah,India,26.52N,78.81E,43,3,1,False,2,False,False,development
+Evansville,United States,37.78N,87.46W,81,1,2,False,1,False,False,development
+Exeter,United Kingdom,50.63N,3.80W,97,1,1,True,0,False,False,development
+Faizabad,India,26.52N,82.39E,43,1,1,True,0,False,False,development
+Faridpur,Bangladesh,23.31N,90.00E,43,1,1,True,0,False,False,development
+Farrukhabad,India,28.13N,79.09E,43,3,1,False,2,False,False,development
+Fatehpur,India,26.52N,80.60E,43,1,1,True,0,False,False,development
+Fayetteville,United States,34.56N,79.78W,81,1,2,False,1,False,False,development
+Ferrara,Italy,44.20N,11.18E,97,1,1,True,0,False,False,development
+Fez,Morocco,34.56N,5.84W,97,1,1,True,0,False,False,development
+Forlì,Italy,44.20N,11.18E,97,1,1,True,0,False,False,development
+Fort Lauderdale,United States,26.52N,80.60W,70,1,12,False,1,False,False,development
+Fort Wayne,United States,40.99N,85.21W,83,1,2,False,1,False,False,development
+Fort Worth,United States,32.95N,96.70W,30,12,2,False,2,False,False,development
+Frankfurt,Germany,50.63N,8.87E,97,1,1,True,0,False,False,development
+Freiburg,Germany,47.42N,8.29E,97,2,1,False,1,False,False,development
+Fuenlabrada,Spain,40.99N,4.26W,97,1,1,True,0,False,False,development
+Fuxin,China,42.59N,122.18E,28,2,1,False,1,False,False,development
+Fürth,Germany,49.03N,9.80E,97,2,1,False,1,False,False,development
+Gadag,India,15.27N,75.83E,43,1,1,True,0,False,False,development
+Gainesville,United States,29.74N,83.08W,81,1,12,False,1,False,False,development
+Gandhidham,India,23.31N,70.78E,41,1,1,True,0,False,False,development
+Gandhinagar,India,23.31N,72.52E,43,1,1,True,0,False,False,development
+Gangawati,India,15.27N,75.83E,43,1,1,True,0,False,False,development
+Garland,United States,32.95N,96.70W,30,12,2,False,2,False,False,development
+Gaziantep,Turkey,37.78N,36.61E,63,2,12,False,2,False,False,development
+Gazipur,Bangladesh,23.31N,90.00E,43,1,1,True,0,False,False,development
+Gebze,Turkey,40.99N,29.82E,97,1,12,False,1,False,False,development
+Gelsenkirchen,Germany,52.24N,7.88E,97,1,1,True,0,False,False,development
+Geneva,Switzerland,45.81N,5.77E,97,1,1,True,0,False,False,development
+Genoa,Italy,44.20N,8.94E,97,1,1,True,0,False,False,development
+Gera,Germany,50.63N,11.41E,97,1,1,True,0,False,False,development
+Getafe,Spain,40.99N,4.26W,97,1,1,True,0,False,False,development
+Giugliano In Campania,Italy,40.99N,14.91E,97,1,1,True,0,False,False,development
+Gizeh,Egypt,29.74N,31.38E,38,12,3,False,3,False,False,development
+Glasgow,United Kingdom,55.45N,2.83W,97,1,1,True,0,False,False,development
+Glazov,Russia,58.66N,52.31E,95,12,12,True,0,False,False,development
+Godhra,India,23.31N,74.27E,43,1,1,True,0,False,False,development
+Gondal,India,21.70N,70.10E,41,1,1,True,0,False,False,development
+Gongzhuling,China,44.20N,125.22E,28,12,1,False,1,False,False,development
+Gorakhpur,India,26.52N,84.18E,43,1,1,True,0,False,False,development
+Grand Prairie,United States,32.95N,96.70W,30,12,2,False,2,False,False,development
+Graz,Austria,47.42N,15.39E,97,1,1,True,0,False,False,development
+Green Bay,United States,44.20N,87.20W,83,1,2,False,1,False,False,development
+Grenoble,France,45.81N,5.77E,97,1,1,True,0,False,False,development
+Guadalupe,Mexico,26.52N,100.30W,22,1,11,False,2,False,False,development
+Gudalur,India,12.05N,80.55E,43,1,7,False,6,False,False,development
+Guelph,Canada,44.20N,80.50W,83,1,2,False,1,False,False,development
+Guna,India,24.92N,78.03E,43,"1,2",1,True,0,True,False,development
+Guntakal,India,15.27N,77.50E,43,1,1,True,0,False,False,development
+Guntur,India,16.87N,80.37E,43,2,1,False,1,False,False,development
+Göteborg,Sweden,58.66N,12.31E,97,1,2,False,1,False,False,development
+Hagen,Germany,52.24N,7.88E,97,1,1,True,0,False,False,development
+Haifa,Israel,32.95N,35.43E,41,12,12,True,0,False,False,development
+Hailar,China,49.03N,120.00E,29,1,1,True,0,False,False,development
+Hajipur,India,24.92N,85.12E,43,1,1,True,0,False,False,development
+Haldwani,India,29.74N,79.38E,42,3,1,False,2,False,False,development
+Halifax,Canada,44.20N,62.61W,81,1,12,False,1,False,False,development
+Halisahar,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Hamburg,Germany,53.84N,9.55E,97,1,1,True,0,False,False,development
+Hami,China,42.59N,93.82E,28,1,1,True,0,False,False,development
+Hamm,Germany,52.24N,7.88E,97,1,1,True,0,False,False,development
+Hampton,United States,36.17N,75.58W,81,1,2,False,1,False,False,development
+Hangu,China,39.38N,118.61E,27,2,12,False,2,False,False,development
+Hanover,Germany,52.24N,10.51E,97,1,1,True,0,False,False,development
+Haora,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Harbin,China,45.81N,125.77E,29,1,1,True,0,False,False,development
+Haridwar,India,29.74N,77.54E,38,3,1,False,2,False,False,development
+Hartford,United States,40.99N,72.43W,81,1,2,False,1,False,False,development
+Helsinki,Finland,60.27N,25.95E,97,1,1,True,0,False,False,development
+Highlands Ranch,United States,39.38N,104.05W,29,12,2,False,2,False,False,development
+Hildesheim,Germany,52.24N,10.51E,97,1,1,True,0,False,False,development
+Horlivka,Ukraine,49.03N,39.18E,97,1,12,False,1,False,False,development
+Hoshangabad,India,23.31N,77.77E,43,1,1,True,0,False,False,development
+Hospet,India,15.27N,75.83E,43,1,1,True,0,False,False,development
+Hosur,India,12.05N,77.26E,43,2,7,False,5,False,False,development
+Hrodna,Belarus,53.84N,23.18E,97,1,1,True,0,False,False,development
+Huddersfield,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Hulan,China,45.81N,125.77E,29,1,1,True,0,False,False,development
+Ichalkaranji,India,16.87N,73.67E,43,1,1,True,0,False,False,development
+Indore,India,23.31N,76.02E,43,1,1,True,0,False,False,development
+Inegol,Turkey,39.38N,29.13E,97,1,12,False,1,False,False,development
+Ipswich,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,development
+Irbid,Jordan,32.95N,35.43E,41,12,12,True,0,False,False,development
+Irkutsk,Russia,52.24N,105.11E,29,1,1,True,0,False,False,development
+Irving,United States,32.95N,96.70W,30,12,2,False,2,False,False,development
+Iskenderun,Turkey,36.17N,35.80E,55,12,12,True,0,False,False,development
+Ismailia,Egypt,31.35N,32.04E,43,12,3,False,3,False,False,development
+Isparta,Turkey,37.78N,30.51E,76,1,12,False,1,False,False,development
+Itarsi,India,23.31N,77.77E,43,1,1,True,0,False,False,development
+Ivanovo,Russia,57.05N,39.84E,97,1,12,False,1,False,False,development
+Izmit,Turkey,40.99N,29.82E,97,1,12,False,1,False,False,development
+Jabalpur,India,23.31N,79.51E,43,1,1,True,0,False,False,development
+Jaffna,Sri Lanka,8.84N,80.27E,43,2,7,False,5,False,False,development
+Jagadhri,India,29.74N,77.54E,38,3,1,False,2,False,False,development
+Jaipur,India,26.52N,75.22E,43,2,1,False,1,False,False,development
+Jamalpur,India,24.92N,86.90E,43,1,1,True,0,False,False,development
+Jamnagar,India,21.70N,70.10E,41,1,1,True,0,False,False,development
+Jaramana,Syria,32.95N,35.43E,41,12,12,True,0,False,False,development
+Jaén,Spain,37.78N,4.07W,97,1,1,True,0,False,False,development
+Jerez,Spain,36.17N,5.97W,97,1,1,True,0,False,False,development
+Jhunjhunun,India,28.13N,75.45E,43,3,1,False,2,False,False,development
+Jiayuguan,China,39.38N,97.80E,28,2,1,False,1,False,False,development
+Jinchang,China,37.78N,101.69E,28,2,12,False,2,False,False,development
+Jining,China,40.99N,112.90E,28,2,12,False,2,False,False,development
+Jinzhou,China,40.99N,121.42E,28,2,12,False,2,False,False,development
+Jixi,China,45.81N,130.38E,20,1,1,True,0,False,False,development
+Kahramanmaras,Turkey,37.78N,36.61E,63,2,12,False,2,False,False,development
+Kallithéa,Greece,37.78N,24.41E,97,1,1,True,0,False,False,development
+Kalyan,India,20.09N,73.36E,43,1,1,True,0,False,False,development
+Kamarhati,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Kamensk Uralskiy,Russia,55.45N,62.36E,45,1,12,False,1,False,False,development
+Kanchipuram,India,13.66N,80.09E,43,2,7,False,5,False,False,development
+Kandy,Sri Lanka,7.23N,80.27E,43,2,1,False,1,False,False,development
+Kansk,Russia,55.45N,96.38E,29,1,1,True,0,False,False,development
+Kapra,India,16.87N,78.70E,43,2,1,False,1,False,False,development
+Karamay,China,45.81N,84.23E,29,12,1,False,1,False,False,development
+Karimnagar,India,18.48N,79.44E,43,2,1,False,1,False,False,development
+Kassel,Germany,50.63N,8.87E,97,1,1,True,0,False,False,development
+Katowice,Poland,50.63N,19.01E,97,1,1,True,0,False,False,development
+Kayseri,Turkey,39.38N,35.38E,71,1,12,False,1,False,False,development
+Kazan,Russia,55.45N,48.19E,95,1,12,False,1,False,False,development
+Khammam,India,16.87N,80.37E,43,2,1,False,1,False,False,development
+Khandwa,India,21.70N,77.02E,43,1,1,True,0,False,False,development
+Khardaha,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Kherson,Ukraine,47.42N,31.97E,97,1,12,False,1,False,False,development
+Khurja,India,28.13N,77.27E,43,3,1,False,2,False,False,development
+Kielce,Poland,50.63N,21.55E,97,1,1,True,0,False,False,development
+Kingston,Canada,44.20N,76.02W,83,1,2,False,1,False,False,development
+Kingston Upon Hull,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Kirkuk,Iraq,36.17N,43.76E,35,12,12,True,0,False,False,development
+Kirov,Russia,58.66N,49.23E,95,12,12,True,0,False,False,development
+Kirovohrad,Ukraine,49.03N,31.84E,97,1,12,False,1,False,False,development
+Kislovodsk,Russia,44.20N,42.48E,72,1,12,False,1,False,False,development
+Kitchener,Canada,44.20N,80.50W,83,1,2,False,1,False,False,development
+Koblenz,Germany,50.63N,6.34E,97,1,1,True,0,False,False,development
+Kollam,India,8.84N,77.03E,41,2,7,False,5,False,False,development
+Kolomna,Russia,55.45N,39.69E,97,1,12,False,1,False,False,development
+Konya,Turkey,37.78N,32.54E,72,1,12,False,1,False,False,development
+Kosice,Slovakia,49.03N,22.04E,97,1,1,True,0,False,False,development
+Kota,India,24.92N,76.26E,43,1,1,True,0,False,False,development
+Kovrov,Russia,57.05N,42.79E,97,1,12,False,1,False,False,development
+Krasnodar,Russia,45.81N,38.08E,95,1,12,False,1,False,False,development
+Krefeld,Germany,50.63N,6.34E,97,1,1,True,0,False,False,development
+Kryvyy Rih,Ukraine,47.42N,34.34E,97,1,12,False,1,False,False,development
+Kuytun,China,44.20N,84.97E,28,12,1,False,1,False,False,development
+Lafayette,United States,29.74N,92.31W,30,2,2,True,0,False,False,development
+Lakewood,United States,39.38N,104.05W,29,12,2,False,2,False,False,development
+Lakhimpur,India,28.13N,80.91E,43,3,1,False,2,False,False,development
+Lalitpur,India,24.92N,78.03E,43,"1,2",1,True,0,True,False,development
+Lalitpur,Nepal,28.13N,84.55E,43,1,1,True,0,False,False,development
+Langfang,China,39.38N,116.53E,27,2,12,False,2,False,False,development
+Las Tunas,Cuba,21.70N,77.02W,27,12,12,True,0,False,False,development
+Le Havre,France,49.03N,0.00W,97,1,1,True,0,False,False,development
+Le Mans,France,47.42N,1.18E,97,1,1,True,0,False,False,development
+Legnica,Poland,50.63N,16.48E,97,1,1,True,0,False,False,development
+Leipzig,Germany,50.63N,11.41E,97,1,1,True,0,False,False,development
+Lemesos,Cyprus,34.56N,33.08E,56,12,12,True,0,False,False,development
+Leninsk Kuznetskiy,Russia,53.84N,85.91E,29,1,1,True,0,False,False,development
+Limoges,France,45.81N,1.15E,97,1,1,True,0,False,False,development
+Linxi,China,39.38N,118.61E,27,2,12,False,2,False,False,development
+Linxia,China,36.17N,103.43E,22,2,12,False,2,False,False,development
+Linz,Austria,49.03N,14.69E,97,1,1,True,0,False,False,development
+Lipetsk,Russia,52.24N,39.42E,97,1,12,False,1,False,False,development
+Ljubljana,Slovenia,45.81N,15.00E,97,1,1,True,0,False,False,development
+Logroño,Spain,42.59N,2.18W,97,1,1,True,0,False,False,development
+London,Canada,42.59N,80.73W,83,1,2,False,1,False,False,development
+Longfeng,China,45.81N,125.77E,29,1,1,True,0,False,False,development
+Louisville,United States,37.78N,85.42W,81,1,2,False,1,False,False,development
+Lowell,United States,42.59N,72.00W,81,1,2,False,1,False,False,development
+Luancheng,China,37.78N,113.90E,25,2,12,False,2,False,False,development
+Lublin,Poland,50.63N,21.55E,97,1,1,True,0,False,False,development
+Ludwigshafen,Germany,49.03N,7.35E,97,1,1,True,0,False,False,development
+Luton,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,development
+Lyon,France,45.81N,5.77E,97,1,1,True,0,False,False,development
+Lübeck,Germany,53.84N,9.55E,97,1,1,True,0,False,False,development
+Machilipatnam,India,15.27N,80.83E,43,2,1,False,1,False,False,development
+Madison,United States,42.59N,89.45W,83,1,2,False,1,False,False,development
+Madras,India,13.66N,80.09E,43,2,7,False,5,False,False,development
+Madrid,Spain,40.99N,4.26W,97,1,1,True,0,False,False,development
+Magnitogorsk,Russia,53.84N,58.64E,49,1,12,False,1,False,False,development
+Mahabad,Iran,36.17N,45.75E,27,12,12,True,0,False,False,development
+Mahbubnagar,India,16.87N,78.70E,43,2,1,False,1,False,False,development
+Maisuru,India,12.05N,77.26E,43,2,7,False,5,False,False,development
+Makiyivka,Ukraine,47.42N,39.08E,96,1,12,False,1,False,False,development
+Malegaon,India,20.09N,75.07E,43,1,1,True,0,False,False,development
+Malmö,Sweden,55.45N,14.17E,97,1,1,True,0,False,False,development
+Manchester,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Manchester,United States,42.59N,72.00W,81,1,2,False,1,False,False,development
+Manisa,Turkey,39.38N,27.05E,97,1,1,True,0,False,False,development
+Mannheim,Germany,49.03N,7.35E,97,1,1,True,0,False,False,development
+Manzanillo,Cuba,20.09N,76.78W,27,12,12,True,0,False,False,development
+Maragheh,Iran,37.78N,46.78E,36,12,12,True,0,False,False,development
+Marivan,Iran,36.17N,45.75E,27,12,12,True,0,False,False,development
+Marrakesh,Morocco,31.35N,7.54W,48,1,3,False,2,False,False,development
+Matamoros,Mexico,26.52N,96.72W,26,"1,12",11,False,1,True,False,development
+Matanzas,Cuba,23.31N,81.26W,27,12,12,True,0,False,False,development
+Mataró,Spain,40.99N,2.13E,97,1,1,True,0,False,False,development
+Mathura,India,28.13N,77.27E,43,3,1,False,2,False,False,development
+Meiktila,Burma,20.09N,95.55E,40,1,1,True,0,False,False,development
+Memphis,United States,34.56N,89.51W,81,1,2,False,1,False,False,development
+Mentougou,China,39.38N,116.53E,27,2,12,False,2,False,False,development
+Metairie,United States,29.74N,90.46W,40,1,2,False,1,False,False,development
+Miami,United States,26.52N,80.60W,70,1,12,False,1,False,False,development
+Miass,Russia,55.45N,59.53E,49,1,12,False,1,False,False,development
+Middlesbrough,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Miramar,United States,26.52N,80.60W,70,1,12,False,1,False,False,development
+Mirpur Khas,Pakistan,24.92N,69.16E,41,3,1,False,2,False,False,development
+Misratah,Libya,32.95N,14.36E,97,1,1,True,0,False,False,development
+Monterrey,Mexico,26.52N,100.30W,22,1,11,False,2,False,False,development
+Montpellier,France,44.20N,4.47E,97,1,1,True,0,False,False,development
+Montreal,Canada,45.81N,72.69W,83,1,2,False,1,False,False,development
+Monywa,Burma,21.70N,94.33E,40,1,1,True,0,False,False,development
+Moratuwa,Sri Lanka,7.23N,80.27E,43,2,1,False,1,False,False,development
+Morena,India,26.52N,78.81E,43,3,1,False,2,False,False,development
+Morvi,India,23.31N,70.78E,41,1,1,True,0,False,False,development
+Murcia,Spain,37.78N,2.03W,97,1,1,True,0,False,False,development
+Murmansk,Russia,68.31N,34.70E,97,1,1,True,0,False,False,development
+Murwara,India,23.31N,81.26E,43,1,1,True,0,False,False,development
+Muzaffarnagar,India,29.74N,77.54E,38,3,1,False,2,False,False,development
+Málaga,Spain,36.17N,3.98W,97,1,1,True,0,False,False,development
+Médéa,Algeria,36.17N,1.99E,97,1,1,True,0,False,False,development
+Mérida,Mexico,21.70N,89.13W,27,12,12,True,0,False,False,development
+Nadiad,India,23.31N,72.52E,43,1,1,True,0,False,False,development
+Nagercoil,India,8.84N,77.03E,41,2,7,False,5,False,False,development
+Naihati,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Nancha,China,47.42N,129.08E,29,1,1,True,0,False,False,development
+Nandurbar,India,21.70N,73.56E,43,1,1,True,0,False,False,development
+Nandyal,India,15.27N,79.17E,43,2,1,False,1,False,False,development
+Nantes,France,47.42N,1.18W,97,1,1,True,0,False,False,development
+Naperville,United States,40.99N,87.34W,83,1,2,False,1,False,False,development
+Narsingdi,Bangladesh,23.31N,90.00E,43,1,1,True,0,False,False,development
+Nawabganj,Bangladesh,24.92N,88.67E,43,3,1,False,2,False,False,development
+Nazilli,Turkey,37.78N,28.47E,95,1,1,True,0,False,False,development
+Nazran,Russia,44.20N,44.72E,53,1,12,False,1,False,False,development
+Neftekamsk,Russia,55.45N,53.86E,94,1,12,False,1,False,False,development
+Negombo,Sri Lanka,7.23N,80.27E,43,2,1,False,1,False,False,development
+Nehe,China,49.03N,124.90E,29,1,1,True,0,False,False,development
+Netanya,Israel,32.95N,35.43E,41,12,12,True,0,False,False,development
+Neuss,Germany,50.63N,6.34E,97,1,1,True,0,False,False,development
+Nevinnomyssk,Russia,44.20N,42.48E,72,1,12,False,1,False,False,development
+New Delhi,India,28.13N,77.27E,43,3,1,False,2,False,False,development
+Newark,United States,40.99N,74.56W,81,1,2,False,1,False,False,development
+Nijmegen,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,development
+Nizhnekamsk,Russia,55.45N,51.02E,95,1,12,False,1,False,False,development
+Nizhnevartovsk,Russia,60.27N,77.84E,33,1,12,False,1,False,False,development
+Nizhniy Novgorod,Russia,57.05N,42.79E,97,1,12,False,1,False,False,development
+Noginsk,Russia,55.45N,39.69E,97,1,12,False,1,False,False,development
+Norilsk,Russia,69.92N,88.83E,29,2,11,False,3,False,False,development
+Norwich,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,development
+Nottingham,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Novi Sad,Serbia,45.81N,19.62E,97,1,1,True,0,False,False,development
+Novocherkassk,Russia,47.42N,39.08E,96,1,12,False,1,False,False,development
+Novokuznetsk,Russia,53.84N,85.91E,29,1,1,True,0,False,False,development
+Novomoskovsk,Russia,53.84N,39.55E,97,1,12,False,1,False,False,development
+Novorossiysk,Russia,44.20N,38.01E,95,1,12,False,1,False,False,development
+Nuevo Laredo,United States,28.13N,99.09W,26,1,11,False,2,False,False,development
+Nuremberg,Germany,49.03N,12.24E,97,1,1,True,0,False,False,development
+Nîmes,France,44.20N,4.47E,97,1,1,True,0,False,False,development
+Odesa,Ukraine,45.81N,31.15E,97,1,12,False,1,False,False,development
+Oklahoma City,United States,36.17N,97.46W,30,12,2,False,2,False,False,development
+Olathe,United States,39.38N,95.72W,46,1,2,False,1,False,False,development
+Oldham,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Olsztyn,Poland,53.84N,20.45E,97,1,1,True,0,False,False,development
+Ongole,India,15.27N,80.83E,43,2,1,False,1,False,False,development
+Orlando,United States,28.13N,80.91W,81,1,12,False,1,False,False,development
+Orléans,France,47.42N,1.18E,97,1,1,True,0,False,False,development
+Orsha,Belarus,53.84N,31.36E,97,1,12,False,1,False,False,development
+Orsk,Russia,50.63N,59.58E,45,1,12,False,1,False,False,development
+Oshawa,Canada,44.20N,78.26W,83,1,2,False,1,False,False,development
+Oslo,Norway,60.27N,9.73E,97,1,2,False,1,False,False,development
+Osmaniye,Turkey,37.78N,36.61E,63,2,12,False,2,False,False,development
+Overland Park,United States,39.38N,93.64W,74,1,2,False,1,False,False,development
+Oxford,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,development
+Paderborn,Germany,52.24N,7.88E,97,1,1,True,0,False,False,development
+Palanpur,India,24.92N,72.71E,43,1,1,True,0,False,False,development
+Palma,Spain,39.38N,2.08E,97,1,1,True,0,False,False,development
+Palma Soriano,Cuba,20.09N,76.78W,27,12,12,True,0,False,False,development
+Palwal,India,28.13N,77.27E,43,3,1,False,2,False,False,development
+Pamplona,Spain,42.59N,2.18W,97,1,1,True,0,False,False,development
+Panevezys,Lithuania,55.45N,25.51E,97,1,1,True,0,False,False,development
+Panihati,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Paris,France,49.03N,2.45E,97,1,1,True,0,False,False,development
+Parsabad,Iran,39.38N,47.86E,38,12,12,True,0,False,False,development
+Patan,India,23.31N,72.52E,43,1,1,True,0,False,False,development
+Paterson,United States,40.99N,74.56W,81,1,2,False,1,False,False,development
+Patna,India,24.92N,85.12E,43,1,1,True,0,False,False,development
+Pavlodar,Kazakhstan,52.24N,76.20E,29,1,1,True,0,False,False,development
+Pavlohrad,Ukraine,49.03N,36.73E,97,1,12,False,1,False,False,development
+Perm,Russia,58.66N,55.38E,95,12,12,True,0,False,False,development
+Petropavl,Kazakhstan,55.45N,68.03E,34,1,12,False,1,False,False,development
+Pforzheim,Germany,49.03N,9.80E,97,2,1,False,1,False,False,development
+Piatra Neamt,Romania,47.42N,27.24E,97,1,12,False,1,False,False,development
+Piedras Negras,Mexico,28.13N,100.91W,24,1,11,False,2,False,False,development
+Pimpri,India,18.48N,74.37E,43,1,1,True,0,False,False,development
+Pinsk,Belarus,52.24N,26.28E,97,1,1,True,0,False,False,development
+Pittsburgh,United States,40.99N,80.95W,81,1,2,False,1,False,False,development
+Pleven,Bulgaria,44.20N,24.60E,97,1,1,True,0,False,False,development
+Ploiesti,Romania,45.81N,26.54E,97,1,12,False,1,False,False,development
+Plzen,Czech Republic,50.63N,13.94E,97,2,1,False,1,False,False,development
+Podolsk,Russia,55.45N,36.85E,97,1,12,False,1,False,False,development
+Pokhara,Nepal,28.13N,84.55E,43,1,1,True,0,False,False,development
+Pondicherry,India,12.05N,80.55E,43,1,7,False,6,False,False,development
+Poole,United Kingdom,50.63N,1.27W,97,1,1,True,0,False,False,development
+Porbandar,India,21.70N,70.10E,41,1,1,True,0,False,False,development
+Port Au Prince,Haiti,18.48N,72.68W,20,12,12,True,0,False,False,development
+Port Saint Lucie,United States,26.52N,80.60W,70,1,12,False,1,False,False,development
+Potsdam,Germany,52.24N,13.14E,97,1,1,True,0,False,False,development
+Prague,Czech Republic,50.63N,13.94E,97,2,1,False,1,False,False,development
+Prizren,Serbia,42.59N,21.82E,97,1,1,True,0,False,False,development
+Proddatur,India,15.27N,79.17E,43,2,1,False,1,False,False,development
+Providence,United States,42.59N,72.00W,81,1,2,False,1,False,False,development
+Pskov,Russia,57.05N,28.03E,97,1,1,True,0,False,False,development
+Puerto Plata,Dominican Republic,20.09N,69.95W,20,12,12,True,0,False,False,development
+Pune,India,18.48N,74.37E,43,1,1,True,0,False,False,development
+Purnia,India,26.52N,87.76E,43,1,1,True,0,False,False,development
+Puruliya,India,23.31N,86.50E,43,1,1,True,0,False,False,development
+Pyay,Burma,18.48N,94.65E,43,1,1,True,0,False,False,development
+Pátrai,Greece,37.78N,22.37E,97,1,1,True,0,False,False,development
+Qazvin,Iran,36.17N,49.72E,26,12,12,True,0,False,False,development
+Qianguo,China,45.81N,125.77E,29,1,1,True,0,False,False,development
+Qinhuangdao,China,39.38N,118.61E,27,2,12,False,2,False,False,development
+Qiqihar,China,47.42N,124.34E,29,1,1,True,0,False,False,development
+Qostanay,Kazakhstan,53.84N,64.09E,37,1,12,False,1,False,False,development
+Quebec,Canada,47.42N,72.24W,83,1,12,False,1,False,False,development
+Rabat,Morocco,34.56N,5.84W,97,1,1,True,0,False,False,development
+Radom,Poland,50.63N,21.55E,97,1,1,True,0,False,False,development
+Rae Bareli,India,26.52N,80.60E,43,1,1,True,0,False,False,development
+Raichur,India,16.87N,77.02E,43,1,1,True,0,False,False,development
+Rajamahendri,India,16.87N,82.05E,43,2,1,False,1,False,False,development
+Rajapalaiyam,India,8.84N,77.03E,41,2,7,False,5,False,False,development
+Rajpur,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Raleigh,United States,36.17N,79.56W,81,1,2,False,1,False,False,development
+Ramnicu Valcea,Romania,45.81N,24.23E,97,1,1,True,0,False,False,development
+Ranchi,India,23.31N,84.76E,43,1,1,True,0,False,False,development
+Rangoon,Burma,16.87N,95.44E,43,1,1,True,0,False,False,development
+Rangpur,Bangladesh,26.52N,89.55E,41,1,1,True,0,False,False,development
+Rasht,Iran,37.78N,48.81E,27,12,12,True,0,False,False,development
+Ravenna,Italy,44.20N,11.18E,97,1,1,True,0,False,False,development
+Reading,United Kingdom,50.63N,1.27W,97,1,1,True,0,False,False,development
+Reggio Di Calabria,Italy,37.78N,16.27E,97,1,1,True,0,False,False,development
+Regina,Canada,50.63N,105.21W,37,1,1,True,0,False,False,development
+Reims,France,49.03N,4.90E,97,1,1,True,0,False,False,development
+Reutlingen,Germany,49.03N,9.80E,97,2,1,False,1,False,False,development
+Rewari,India,28.13N,77.27E,43,3,1,False,2,False,False,development
+Reykjavík,Iceland,65.09N,21.06W,89,1,2,False,1,False,False,development
+Reynosa,Mexico,26.52N,98.51W,24,1,11,False,2,False,False,development
+Richardson,United States,32.95N,96.70W,30,12,2,False,2,False,False,development
+Rijeka,Croatia,45.81N,15.00E,97,1,1,True,0,False,False,development
+Rimini,Italy,44.20N,13.42E,97,1,1,True,0,False,False,development
+Rishra,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Rotterdam,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,development
+Rouen,France,49.03N,0.00W,97,1,1,True,0,False,False,development
+Ruda Slaska,Poland,50.63N,19.01E,97,1,1,True,0,False,False,development
+Ryazan,Russia,53.84N,39.55E,97,1,12,False,1,False,False,development
+Rybnik,Poland,50.63N,19.01E,97,1,1,True,0,False,False,development
+Rzeszow,Poland,50.63N,21.55E,97,1,1,True,0,False,False,development
+Saarbrücken,Germany,49.03N,7.35E,97,1,1,True,0,False,False,development
+Sabratah,Libya,32.95N,12.45E,97,1,1,True,0,False,False,development
+Safaqis,Tunisia,34.56N,11.68E,97,1,1,True,0,False,False,development
+Sagar,India,23.31N,79.51E,43,1,1,True,0,False,False,development
+Saharsa,India,26.52N,85.97E,43,1,1,True,0,False,False,development
+Saint Helens,United Kingdom,53.84N,4.09W,97,1,1,True,0,False,False,development
+Saint Paul,United States,45.81N,93.46W,83,1,2,False,1,False,False,development
+Saint Petersburg,Russia,60.27N,29.19E,97,2,1,False,1,False,False,development
+Saint Étienne,France,45.81N,3.46E,97,1,1,True,0,False,False,development
+Salavat,Russia,53.84N,55.91E,62,1,12,False,1,False,False,development
+Salerno,Italy,40.99N,14.91E,97,1,1,True,0,False,False,development
+Salihorsk,Belarus,52.24N,26.28E,97,1,1,True,0,False,False,development
+Sambalpur,India,21.70N,83.94E,43,1,1,True,0,False,False,development
+San Francisco De Macorís,Dominican Republic,20.09N,69.95W,20,12,12,True,0,False,False,development
+San Pedro Sula,Honduras,15.27N,87.50W,21,12,12,True,0,False,False,development
+Santa Catarina,Mexico,26.52N,100.30W,22,1,11,False,2,False,False,development
+Santa Clara,Cuba,21.70N,80.48W,27,12,12,True,0,False,False,development
+Santa Cruz De Tenerife,Spain,28.13N,15.45W,35,1,12,False,1,False,False,development
+Santander,Spain,44.20N,4.47W,97,1,1,True,0,False,False,development
+Santiago De Cuba,Cuba,20.09N,75.07W,27,12,12,True,0,False,False,development
+Saransk,Russia,53.84N,45.00E,95,2,12,False,2,False,False,development
+Sasaram,India,24.92N,83.35E,43,1,1,True,0,False,False,development
+Saskatoon,Canada,52.24N,107.74W,37,1,1,True,0,False,False,development
+Sassari,Italy,40.99N,8.52E,97,1,1,True,0,False,False,development
+Satna,India,24.92N,81.58E,43,1,1,True,0,False,False,development
+Satu Mare,Romania,47.42N,22.50E,97,1,1,True,0,False,False,development
+Savannah,United States,31.35N,81.05W,81,1,2,False,1,False,False,development
+Sawai Madhopur,India,26.52N,77.01E,43,2,1,False,1,False,False,development
+Selam,India,12.05N,78.90E,43,1,7,False,6,False,False,development
+Seoni,India,21.70N,78.75E,43,1,1,True,0,False,False,development
+Setúbal,Portugal,39.38N,8.32W,97,1,1,True,0,False,False,development
+Severodvinsk,Russia,65.09N,40.21E,97,1,1,True,0,False,False,development
+Sevilla,Spain,37.78N,6.10W,97,1,1,True,0,False,False,development
+Shahjahanpur,India,28.13N,79.09E,43,3,1,False,2,False,False,development
+Sheffield,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Shihezi,China,44.20N,84.97E,28,12,1,False,1,False,False,development
+Shimoga,India,13.66N,75.14E,43,2,1,False,1,False,False,development
+Sholapur,India,18.48N,76.06E,43,1,1,True,0,False,False,development
+Shreveport,United States,32.95N,92.87W,41,12,2,False,2,False,False,development
+Shuangcheng,China,45.81N,125.77E,29,1,1,True,0,False,False,development
+Shuangyashan,China,47.42N,131.45E,20,1,1,True,0,False,False,development
+Siauliai,Lithuania,55.45N,22.68E,97,1,1,True,0,False,False,development
+Sioux Falls,United States,44.20N,96.15W,76,2,2,True,0,False,False,development
+Sirajganj,Bangladesh,24.92N,90.44E,43,1,1,True,0,False,False,development
+Sitapur,India,28.13N,80.91E,43,3,1,False,2,False,False,development
+Sivas,Turkey,39.38N,37.46E,65,2,12,False,2,False,False,development
+Siverek,Turkey,37.78N,38.64E,44,12,12,True,0,False,False,development
+Siwan,India,26.52N,84.18E,43,1,1,True,0,False,False,development
+Sochi,Russia,44.20N,40.25E,90,1,12,False,1,False,False,development
+Sofia,Bulgaria,42.59N,24.00E,97,1,1,True,0,False,False,development
+Solikamsk,Russia,60.27N,58.38E,94,12,1,False,1,False,False,development
+Solingen,Germany,50.63N,6.34E,97,1,1,True,0,False,False,development
+Southampton,United Kingdom,50.63N,1.27W,97,1,1,True,0,False,False,development
+Spanish Town,Jamaica,18.48N,77.75W,22,12,12,True,0,False,False,development
+Springfield,United States,39.38N,89.48W,81,1,2,False,1,False,False,development
+Springfield,United States,42.59N,72.00W,81,1,2,False,1,False,False,development
+Srikakulam,India,18.48N,84.51E,43,2,1,False,1,False,False,development
+Stavropol,Russia,44.20N,42.48E,72,1,12,False,1,False,False,development
+Sterling Heights,United States,42.59N,82.91W,83,1,2,False,1,False,False,development
+Sterlitamak,Russia,53.84N,55.91E,62,1,12,False,1,False,False,development
+Stockport,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Suceava,Romania,47.42N,27.24E,97,1,12,False,1,False,False,development
+Sur,Lebanon,32.95N,35.43E,41,12,12,True,0,False,False,development
+Surgut,Russia,61.88N,73.02E,37,1,12,False,1,False,False,development
+Surt,Libya,31.35N,16.96E,83,1,1,True,0,False,False,development
+Susah,Tunisia,36.17N,9.94E,97,1,1,True,0,False,False,development
+Sutton Coldfield,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,development
+Szczecin,Poland,53.84N,15.00E,97,1,1,True,0,False,False,development
+Szeged,Hungary,45.81N,19.62E,97,1,1,True,0,False,False,development
+Székesfehérvár,Hungary,47.42N,17.76E,97,1,1,True,0,False,False,development
+Tabriz,Iran,37.78N,46.78E,36,12,12,True,0,False,False,development
+Taganrog,Russia,47.42N,39.08E,96,1,12,False,1,False,False,development
+Tambov,Russia,52.24N,42.04E,97,1,12,False,1,False,False,development
+Tampa,United States,28.13N,82.73W,79,1,12,False,1,False,False,development
+Tampere,Finland,61.88N,22.08E,97,1,1,True,0,False,False,development
+Tangier,Morocco,36.17N,5.97W,97,1,1,True,0,False,False,development
+Tangshan,China,37.78N,113.90E,25,2,12,False,2,False,False,development
+Tanta,Egypt,31.35N,30.16E,56,12,1,False,1,False,False,development
+Tarhunah,Libya,32.95N,14.36E,97,1,1,True,0,False,False,development
+Tarnow,Poland,50.63N,21.55E,97,1,1,True,0,False,False,development
+Tarsus,Turkey,37.78N,34.58E,68,1,12,False,1,False,False,development
+Tbilisi,Georgia,40.99N,44.73E,49,1,12,False,1,False,False,development
+Tekirdag,Turkey,40.99N,27.69E,97,1,12,False,1,False,False,development
+Temirtau,Kazakhstan,50.63N,72.25E,32,1,12,False,1,False,False,development
+Terni,Italy,42.59N,13.09E,97,1,1,True,0,False,False,development
+Terrassa,Spain,40.99N,2.13E,97,1,1,True,0,False,False,development
+The Hague,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,development
+Thiruvananthapuram,India,8.84N,77.03E,41,2,7,False,5,False,False,development
+Thrissur,India,10.45N,76.09E,41,2,7,False,5,False,False,development
+Tianjin,China,39.38N,116.53E,27,2,12,False,2,False,False,development
+Tilburg,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,development
+Tirana,Albania,40.99N,19.17E,97,1,1,True,0,False,False,development
+Tiruchchirappalli,India,10.45N,79.36E,43,2,7,False,5,False,False,development
+Tirunelveli,India,8.84N,77.03E,41,2,7,False,5,False,False,development
+Tiruvannamalai,India,12.05N,78.90E,43,1,7,False,6,False,False,development
+Toms River,United States,39.38N,74.91W,81,1,2,False,1,False,False,development
+Tongzhou,China,39.38N,116.53E,27,2,12,False,2,False,False,development
+Tonk,India,26.52N,75.22E,43,2,1,False,1,False,False,development
+Toronto,Canada,44.20N,80.50W,83,1,2,False,1,False,False,development
+Torrejón De Ardoz,Spain,40.99N,4.26W,97,1,1,True,0,False,False,development
+Torun,Poland,52.24N,18.39E,97,1,1,True,0,False,False,development
+Tours,France,47.42N,1.18E,97,1,1,True,0,False,False,development
+Trento,Italy,45.81N,10.38E,97,1,1,True,0,False,False,development
+Trincomalee,Sri Lanka,8.84N,81.89E,43,2,1,False,1,False,False,development
+Trois Rivières,Canada,45.81N,72.69W,83,1,2,False,1,False,False,development
+Tula,Russia,53.84N,36.82E,97,1,12,False,1,False,False,development
+Tulsa,United States,36.17N,95.47W,46,2,2,True,0,False,False,development
+Turin,Italy,45.81N,8.08E,97,1,1,True,0,False,False,development
+Tver,Russia,57.05N,36.89E,97,1,12,False,1,False,False,development
+Tychy,Poland,50.63N,19.01E,97,1,1,True,0,False,False,development
+Tyumen,Russia,57.05N,66.39E,37,1,12,False,1,False,False,development
+Tétouan,Morocco,36.17N,5.97W,97,1,1,True,0,False,False,development
+Udgir,India,18.48N,77.75E,43,1,1,True,0,False,False,development
+Udupi,India,13.66N,75.14E,43,2,1,False,1,False,False,development
+Ufa,Russia,55.45N,56.69E,78,12,12,True,0,False,False,development
+Ujjain,India,23.31N,76.02E,43,1,1,True,0,False,False,development
+Ulan Ude,Russia,52.24N,107.74E,29,1,1,True,0,False,False,development
+Ulubaria,India,23.31N,88.25E,43,1,1,True,0,False,False,development
+Ulyanovsk,Russia,53.84N,47.73E,95,2,12,False,2,False,False,development
+Unnao,India,26.52N,80.60E,43,1,1,True,0,False,False,development
+Usak,Turkey,39.38N,29.13E,97,1,12,False,1,False,False,development
+Ust Ilimsk,Russia,58.66N,101.54E,29,1,1,True,0,False,False,development
+Vadodara,India,21.70N,73.56E,43,1,1,True,0,False,False,development
+Valencia,Spain,39.38N,0.00W,97,1,1,True,0,False,False,development
+Velikie Luki,Russia,57.05N,30.98E,97,1,1,True,0,False,False,development
+Velikiy Novgorod,Russia,58.66N,30.77E,97,1,1,True,0,False,False,development
+Velluru,India,12.05N,78.90E,43,1,7,False,6,False,False,development
+Venice,Italy,45.81N,12.69E,97,1,1,True,0,False,False,development
+Veraval,India,21.70N,70.10E,41,1,1,True,0,False,False,development
+Vicenza,Italy,45.81N,12.69E,97,1,1,True,0,False,False,development
+Vidisha,India,23.31N,77.77E,43,1,1,True,0,False,False,development
+Vigo,Spain,42.59N,8.73W,97,1,1,True,0,False,False,development
+Vijayawada,India,16.87N,80.37E,43,2,1,False,1,False,False,development
+Villahermosa,Mexico,18.48N,92.96W,22,3,12,False,3,False,False,development
+Vinnitsa,Ukraine,49.03N,29.39E,97,1,12,False,1,False,False,development
+Vinnytsya,Ukraine,49.03N,29.39E,97,1,12,False,1,False,False,development
+Viransehir,Turkey,37.78N,40.68E,42,12,12,True,0,False,False,development
+Virar,India,20.09N,73.36E,43,1,1,True,0,False,False,development
+Vitoria,Spain,42.59N,2.18W,97,1,1,True,0,False,False,development
+Vizianagaram,India,18.48N,82.82E,43,2,1,False,1,False,False,development
+Volgograd,Russia,49.03N,44.08E,95,2,12,False,2,False,False,development
+Vologda,Russia,58.66N,40.00E,97,1,12,False,1,False,False,development
+Voronezh,Russia,52.24N,39.42E,97,1,12,False,1,False,False,development
+Walbrzych,Poland,50.63N,16.48E,97,1,1,True,0,False,False,development
+Walsall,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,development
+Waterbury,United States,40.99N,72.43W,81,1,2,False,1,False,False,development
+Waterloo,Canada,44.20N,80.50W,83,1,2,False,1,False,False,development
+Westminster,United States,39.38N,104.05W,29,12,2,False,2,False,False,development
+Wiesbaden,Germany,50.63N,8.87E,97,1,1,True,0,False,False,development
+Winnipeg,Canada,50.63N,97.61W,37,1,1,True,0,False,False,development
+Wloclawek,Poland,52.24N,18.39E,97,1,1,True,0,False,False,development
+Wolverhampton,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,development
+Worcester,United States,42.59N,72.00W,81,1,2,False,1,False,False,development
+Wuda,China,39.38N,106.13E,28,2,12,False,2,False,False,development
+Wuppertal,Germany,50.63N,6.34E,97,1,1,True,0,False,False,development
+Wuwei,China,37.78N,101.69E,28,2,12,False,2,False,False,development
+Würzburg,Germany,49.03N,9.80E,97,2,1,False,1,False,False,development
+Xingtai,China,37.78N,113.90E,25,2,12,False,2,False,False,development
+Xuanhua,China,40.99N,115.03E,28,2,12,False,2,False,False,development
+Yakeshi,China,49.03N,120.00E,29,1,1,True,0,False,False,development
+Yamunanagar,India,29.74N,77.54E,38,3,1,False,2,False,False,development
+Yaroslavl,Russia,57.05N,39.84E,97,1,12,False,1,False,False,development
+Yavatmal,India,20.09N,78.48E,43,1,1,True,0,False,False,development
+Yekaterinburg,Russia,57.05N,60.49E,49,1,12,False,1,False,False,development
+Yelahanka,India,13.66N,76.79E,43,1,7,False,6,False,False,development
+Yenangyaung,Burma,20.09N,95.55E,40,1,1,True,0,False,False,development
+Yerevan,Armenia,40.99N,44.73E,49,1,12,False,1,False,False,development
+Yevpatoriya,Ukraine,45.81N,33.46E,97,1,12,False,1,False,False,development
+Yinchuan,China,37.78N,105.76E,28,2,12,False,2,False,False,development
+York,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,development
+Yuci,China,37.78N,111.86E,27,2,12,False,2,False,False,development
+Zaanstad,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,development
+Zabrze,Poland,50.63N,19.01E,97,1,1,True,0,False,False,development
+Zagreb,Croatia,45.81N,15.00E,97,1,1,True,0,False,False,development
+Zalantun,China,47.42N,121.97E,29,1,1,True,0,False,False,development
+Zanjan,Iran,36.17N,47.73E,27,12,12,True,0,False,False,development
+Zaragoza,Spain,40.99N,0.00W,97,1,1,True,0,False,False,development
+Zhangjiakou,China,40.99N,115.03E,28,2,12,False,2,False,False,development
+Zhukovskiy,Russia,55.45N,36.85E,97,1,12,False,1,False,False,development
+Zhuozhou,China,39.38N,116.53E,27,2,12,False,2,False,False,development
+Zoetermeer,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,development
+Zonguldak,Turkey,40.99N,31.95E,96,1,12,False,1,False,False,development
+Zurich,Switzerland,47.42N,8.29E,97,2,1,False,1,False,False,development
+Århus,Denmark,57.05N,10.33E,97,1,1,True,0,False,False,development
+Öskemen,Kazakhstan,50.63N,82.39E,29,12,1,False,1,False,False,development
+Ürümqi,China,44.20N,87.20E,28,1,1,True,0,False,False,development
