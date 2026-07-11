@@ -1,0 +1,18 @@
+{
+  "dataset": "berkeleyearth/climate-change-earth-surface-temperature-data",
+  "file": "GlobalLandTemperaturesByCity.csv",
+  "file_sha256": "9be86b51487f10e811a0ab43a75946739dfe7bea2342ddcd1f6bc48d51b8c493",
+  "zip_sha256": "d43eb24148c7ea1451ede2e6c742b5177eff2a4255ae2edbb42a3d9c86a6a656",
+  "row_count_including_header": 8599213,
+  "commands": [
+    ".venv/bin/python analyze.py --csv data/raw/GlobalLandTemperaturesByCity.csv --split development --out artifacts",
+    ".venv/bin/python analyze.py --csv data/raw/GlobalLandTemperaturesByCity.csv --split confirmation --out artifacts",
+    ".venv/bin/python robustness.py --csv data/raw/GlobalLandTemperaturesByCity.csv --out artifacts"
+  ],
+  "seed": 2859,
+  "headline_bootstrap_draws": 20000,
+  "headline_randomization_draws": 20000,
+  "robustness_draws": 5000,
+  "software": "Python 3.12; pandas, numpy, matplotlib",
+  "confirmation_opened_after_commit": "e39fcaaab9d32fc7168f8485b72da2b62df41806"
+}

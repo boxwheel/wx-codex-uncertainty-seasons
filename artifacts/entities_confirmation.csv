@@ -1,0 +1,793 @@
+City,Country,Latitude,Longitude,complete_years,uncertainty_max_months,variability_max_months,exact_match,circular_distance,uncertainty_tie,variability_tie,split
+Aachen,Germany,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Aalborg,Denmark,57.05N,10.33E,97,1,1,True,0,False,False,confirmation
+Aberdeen,United Kingdom,57.05N,1.48W,97,1,1,True,0,False,False,confirmation
+Abilene,United States,32.95N,100.53W,29,1,2,False,1,False,False,confirmation
+Acuña,Mexico,29.74N,101.54W,24,12,2,False,2,False,False,confirmation
+Adoni,India,15.27N,77.50E,43,1,1,True,0,False,False,confirmation
+Afyonkarahisar,Turkey,39.38N,31.21E,95,1,1,True,0,False,False,confirmation
+Agadir,Morocco,29.74N,9.23W,36,1,3,False,2,False,False,confirmation
+Agartala,India,23.31N,91.75E,43,1,1,True,0,False,False,confirmation
+Agra,India,26.52N,78.81E,43,3,1,False,2,False,False,confirmation
+Aix En Provence,France,44.20N,4.47E,97,1,1,True,0,False,False,confirmation
+Aizawl,India,23.31N,93.50E,40,"1,2",1,True,0,True,False,confirmation
+Ajdabiya,Libya,31.35N,20.73E,68,1,1,True,0,False,False,confirmation
+Ajmer,India,26.52N,75.22E,43,2,1,False,1,False,False,confirmation
+Akola,India,20.09N,76.78E,43,1,1,True,0,False,False,confirmation
+Akron,United States,40.99N,80.95W,81,1,2,False,1,False,False,confirmation
+Aktau,Kazakhstan,44.20N,51.43E,48,1,12,False,1,False,False,confirmation
+Alandur,India,13.66N,80.09E,43,2,7,False,5,False,False,confirmation
+Alanya,Turkey,36.17N,31.82E,67,12,12,True,0,False,False,confirmation
+Alappuzha,India,8.84N,77.03E,41,2,7,False,5,False,False,confirmation
+Albacete,Spain,39.38N,2.08W,97,1,1,True,0,False,False,confirmation
+Albuquerque,United States,34.56N,107.03W,25,12,1,False,1,False,False,confirmation
+Alcobendas,Spain,40.99N,4.26W,97,1,1,True,0,False,False,confirmation
+Alcorcón,Spain,40.99N,4.26W,97,1,1,True,0,False,False,confirmation
+Alexandria,Egypt,31.35N,30.16E,56,12,1,False,1,False,False,confirmation
+Alexandria,United States,39.38N,76.99W,81,1,2,False,1,False,False,confirmation
+Algeciras,Spain,36.17N,5.97W,97,1,1,True,0,False,False,confirmation
+Allentown,United States,40.99N,74.56W,81,1,2,False,1,False,False,confirmation
+Almere,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,confirmation
+Altay,China,47.42N,88.82E,28,1,1,True,0,False,False,confirmation
+Alwar,India,28.13N,77.27E,43,3,1,False,2,False,False,confirmation
+Amarillo,United States,34.56N,101.19W,29,1,2,False,1,False,False,confirmation
+Ambala,India,29.74N,77.54E,38,3,1,False,2,False,False,confirmation
+Ambarnath,India,18.48N,72.68E,43,1,1,True,0,False,False,confirmation
+Amol,Iran,36.17N,51.71E,22,1,12,False,1,False,False,confirmation
+Amravati,India,21.70N,77.02E,43,1,1,True,0,False,False,confirmation
+Anand,India,23.31N,72.52E,43,1,1,True,0,False,False,confirmation
+Ancona,Italy,44.20N,13.42E,97,1,1,True,0,False,False,confirmation
+Angarsk,Russia,52.24N,105.11E,29,1,1,True,0,False,False,confirmation
+Angers,France,47.42N,1.18W,97,1,1,True,0,False,False,confirmation
+Ankara,Turkey,39.38N,33.29E,80,1,12,False,1,False,False,confirmation
+Ann Arbor,United States,42.59N,82.91W,83,1,2,False,1,False,False,confirmation
+Antakya,Turkey,36.17N,35.80E,55,12,12,True,0,False,False,confirmation
+Antalya,Turkey,37.78N,30.51E,76,1,12,False,1,False,False,confirmation
+Aqtöbe,Kazakhstan,50.63N,57.04E,49,1,12,False,1,False,False,confirmation
+Arkhangelsk,Russia,65.09N,40.21E,97,1,1,True,0,False,False,confirmation
+Arlington,United States,32.95N,96.70W,30,12,2,False,2,False,False,confirmation
+Arnhem,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,confirmation
+Aryanah,Tunisia,36.17N,9.94E,97,1,1,True,0,False,False,confirmation
+Arzamas,Russia,55.45N,42.52E,97,1,12,False,1,False,False,confirmation
+Asansol,India,23.31N,86.50E,43,1,1,True,0,False,False,confirmation
+Ashqelon,Israel,31.35N,33.93E,38,12,3,False,3,False,False,confirmation
+Astana,Kazakhstan,50.63N,72.25E,32,1,12,False,1,False,False,confirmation
+Athens,Greece,37.78N,24.41E,97,1,1,True,0,False,False,confirmation
+Atyrau,Kazakhstan,47.42N,50.92E,49,1,12,False,1,False,False,confirmation
+Austin,United States,29.74N,97.85W,28,1,2,False,1,False,False,confirmation
+Azamgarh,India,26.52N,82.39E,43,1,1,True,0,False,False,confirmation
+Badalona,Spain,40.99N,2.13E,97,1,1,True,0,False,False,confirmation
+Badlapur,India,18.48N,72.68E,43,1,1,True,0,False,False,confirmation
+Bagaha,India,26.52N,84.18E,43,1,1,True,0,False,False,confirmation
+Baghdad,Iraq,32.95N,45.00E,26,12,12,True,0,False,False,confirmation
+Ballia,India,26.52N,84.18E,43,1,1,True,0,False,False,confirmation
+Balti,Moldova,47.42N,27.24E,97,1,12,False,1,False,False,confirmation
+Baltimore,United States,39.38N,76.99W,81,1,2,False,1,False,False,confirmation
+Balurghat,India,24.92N,88.67E,43,3,1,False,2,False,False,confirmation
+Baneh,Iran,36.17N,45.75E,27,12,12,True,0,False,False,confirmation
+Bangalore,India,12.05N,77.26E,43,2,7,False,5,False,False,confirmation
+Banja Luka,Bosnia And Herzegovina,44.20N,17.89E,97,1,1,True,0,False,False,confirmation
+Bankura,India,23.31N,86.50E,43,1,1,True,0,False,False,confirmation
+Baoding,China,39.38N,114.45E,28,2,12,False,2,False,False,confirmation
+Baoshan,China,47.42N,131.45E,20,1,1,True,0,False,False,confirmation
+Barakpur,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Barasat,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Barisal,Bangladesh,23.31N,90.00E,43,1,1,True,0,False,False,confirmation
+Barnaul,Russia,53.84N,83.18E,29,12,1,False,1,False,False,confirmation
+Barrie,Canada,44.20N,80.50W,83,1,2,False,1,False,False,confirmation
+Basildon,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,confirmation
+Basirhat,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Basti,India,26.52N,82.39E,43,1,1,True,0,False,False,confirmation
+Baton Rouge,United States,29.74N,90.46W,40,1,2,False,1,False,False,confirmation
+Bayrut,Lebanon,34.56N,35.03E,45,12,12,True,0,False,False,confirmation
+Beaumont,United States,29.74N,94.15W,30,1,2,False,1,False,False,confirmation
+Beirut,Lebanon,34.56N,35.03E,45,12,12,True,0,False,False,confirmation
+Belfast,United Kingdom,55.45N,5.67W,97,1,1,True,0,False,False,confirmation
+Belgaum,India,15.27N,74.17E,43,2,1,False,1,False,False,confirmation
+Bellary,India,15.27N,77.50E,43,1,1,True,0,False,False,confirmation
+Benha,Egypt,29.74N,31.38E,38,12,3,False,3,False,False,confirmation
+Berezniki,Russia,58.66N,55.38E,95,12,12,True,0,False,False,confirmation
+Bergamo,Italy,45.81N,10.38E,97,1,1,True,0,False,False,confirmation
+Bergisch Gladbach,Germany,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Bhadreswar,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Bhairab Bazar,Bangladesh,24.92N,90.44E,43,1,1,True,0,False,False,confirmation
+Bharatpur,India,26.52N,77.01E,43,2,1,False,1,False,False,confirmation
+Bharatpur,Nepal,28.13N,84.55E,43,1,1,True,0,False,False,confirmation
+Bhatpara,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Bhavnagar,India,21.70N,71.83E,41,1,1,True,0,False,False,confirmation
+Bhimavaram,India,16.87N,82.05E,43,2,1,False,1,False,False,confirmation
+Bhopal,India,23.31N,77.77E,43,1,1,True,0,False,False,confirmation
+Bhuj,India,23.31N,69.03E,41,1,1,True,0,False,False,confirmation
+Bhusawal,India,21.70N,75.29E,43,1,1,True,0,False,False,confirmation
+Bidar,India,18.48N,77.75E,43,1,1,True,0,False,False,confirmation
+Bielsko Biala,Poland,50.63N,19.01E,97,1,1,True,0,False,False,confirmation
+Bijapur,India,16.87N,75.35E,43,1,1,True,0,False,False,confirmation
+Bila Tserkva,Ukraine,49.03N,29.39E,97,1,12,False,1,False,False,confirmation
+Biratnagar,Nepal,26.52N,87.76E,43,1,1,True,0,False,False,confirmation
+Birmingham,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,confirmation
+Biysk,Russia,52.24N,84.09E,29,1,1,True,0,False,False,confirmation
+Blagoveshchensk,Russia,50.63N,128.03E,29,1,1,True,0,False,False,confirmation
+Bochum,Germany,52.24N,7.88E,97,1,1,True,0,False,False,confirmation
+Bokaro,India,23.31N,86.50E,43,1,1,True,0,False,False,confirmation
+Bologna,Italy,44.20N,11.18E,97,1,1,True,0,False,False,confirmation
+Bonn,Germany,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Boulogne Billancourt,France,49.03N,2.45E,97,1,1,True,0,False,False,confirmation
+Bratislava,Slovakia,47.42N,17.76E,97,1,1,True,0,False,False,confirmation
+Bremen,Germany,53.84N,9.55E,97,1,1,True,0,False,False,confirmation
+Bremerhaven,Germany,53.84N,9.55E,97,1,1,True,0,False,False,confirmation
+Bristol,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,confirmation
+Brownsville,United States,26.52N,96.72W,26,"1,12",11,False,1,True,False,confirmation
+Brunswick,Germany,52.24N,10.51E,97,1,1,True,0,False,False,confirmation
+Budapest,Hungary,47.42N,20.13E,97,1,1,True,0,False,False,confirmation
+Budaun,India,28.13N,79.09E,43,3,1,False,2,False,False,confirmation
+Bukan,Iran,36.17N,45.75E,27,12,12,True,0,False,False,confirmation
+Bulandshahr,India,28.13N,77.27E,43,3,1,False,2,False,False,confirmation
+Burgas,Bulgaria,42.59N,28.36E,97,1,12,False,1,False,False,confirmation
+Burhanpur,India,21.70N,77.02E,43,1,1,True,0,False,False,confirmation
+Bursa,Turkey,39.38N,29.13E,97,1,12,False,1,False,False,confirmation
+Buzau,Romania,45.81N,26.54E,97,1,12,False,1,False,False,confirmation
+Bytom,Poland,50.63N,19.01E,97,1,1,True,0,False,False,confirmation
+Cadiz,Spain,36.17N,5.97W,97,1,1,True,0,False,False,confirmation
+Caen,France,49.03N,0.00W,97,1,1,True,0,False,False,confirmation
+Cairo,Egypt,29.74N,31.38E,38,12,3,False,3,False,False,confirmation
+Cambridge,United States,42.59N,72.00W,81,1,2,False,1,False,False,confirmation
+Cape Coral,United States,26.52N,82.39W,59,1,12,False,1,False,False,confirmation
+Carrollton,United States,32.95N,96.70W,30,12,2,False,2,False,False,confirmation
+Cartagena,Spain,37.78N,0.00W,97,1,1,True,0,False,False,confirmation
+Casablanca,Morocco,32.95N,6.70W,73,1,1,True,0,False,False,confirmation
+Catania,Italy,37.78N,14.24E,97,1,1,True,0,False,False,confirmation
+Champdani,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Chandannagar,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Chandausi,India,28.13N,79.09E,43,3,1,False,2,False,False,confirmation
+Chandrapur,India,20.09N,78.48E,43,1,1,True,0,False,False,confirmation
+Changji,China,44.20N,87.20E,28,1,1,True,0,False,False,confirmation
+Charleston,United States,32.95N,79.47W,81,1,2,False,1,False,False,confirmation
+Charlotte,United States,34.56N,81.73W,81,1,2,False,1,False,False,confirmation
+Cheboksary,Russia,55.45N,48.19E,95,1,12,False,1,False,False,confirmation
+Chelmsford,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,confirmation
+Chelyabinsk,Russia,55.45N,62.36E,45,1,12,False,1,False,False,confirmation
+Chemnitz,Germany,50.63N,13.94E,97,2,1,False,1,False,False,confirmation
+Chengde,China,40.99N,117.16E,28,2,12,False,2,False,False,confirmation
+Cherepovets,Russia,58.66N,36.92E,97,1,12,False,1,False,False,confirmation
+Cherkasy,Ukraine,49.03N,31.84E,97,1,12,False,1,False,False,confirmation
+Cherkessk,Russia,44.20N,42.48E,72,1,12,False,1,False,False,confirmation
+Chernihiv,Ukraine,52.24N,31.53E,97,1,12,False,1,False,False,confirmation
+Chhapra,India,26.52N,84.18E,43,1,1,True,0,False,False,confirmation
+Chicago,United States,42.59N,87.27W,83,1,2,False,1,False,False,confirmation
+Chifeng,China,42.59N,120.00E,28,2,1,False,1,False,False,confirmation
+Chikmagalur,India,13.66N,75.14E,43,2,1,False,1,False,False,confirmation
+Chittaurgarh,India,24.92N,74.48E,43,1,1,True,0,False,False,confirmation
+Cienfuegos,Cuba,21.70N,80.48W,27,12,12,True,0,False,False,confirmation
+Cincinnati,United States,39.38N,85.32W,81,1,2,False,1,False,False,confirmation
+Clearwater,United States,28.13N,82.73W,79,1,12,False,1,False,False,confirmation
+Clermont Ferrand,France,45.81N,3.46E,97,1,1,True,0,False,False,confirmation
+Cluj Napoca,Romania,47.42N,22.50E,97,1,1,True,0,False,False,confirmation
+Cologne,Germany,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Colorado Springs,United States,39.38N,104.05W,29,12,2,False,2,False,False,confirmation
+Columbia,United States,34.56N,81.73W,81,1,2,False,1,False,False,confirmation
+Constanta,Romania,44.20N,29.07E,97,1,12,False,1,False,False,confirmation
+Constantine,Algeria,36.17N,5.97E,97,1,1,True,0,False,False,confirmation
+Copenhagen,Denmark,55.45N,11.34E,97,1,1,True,0,False,False,confirmation
+Coral Springs,United States,26.52N,80.60W,70,1,12,False,1,False,False,confirmation
+Cracow,Poland,50.63N,19.01E,97,1,1,True,0,False,False,confirmation
+Cuddapah,India,15.27N,79.17E,43,2,1,False,1,False,False,confirmation
+Córdoba,Spain,37.78N,4.07W,97,1,1,True,0,False,False,confirmation
+Dabrowa Gornicza,Poland,50.63N,19.01E,97,1,1,True,0,False,False,confirmation
+Damoh,India,23.31N,79.51E,43,1,1,True,0,False,False,confirmation
+Darbhanga,India,26.52N,85.97E,43,1,1,True,0,False,False,confirmation
+Darjiling,India,26.52N,87.76E,43,1,1,True,0,False,False,confirmation
+Darmstadt,Germany,50.63N,8.87E,97,1,1,True,0,False,False,confirmation
+Datong,China,40.99N,112.90E,28,2,12,False,2,False,False,confirmation
+Daugavpils,Latvia,55.45N,25.51E,97,1,1,True,0,False,False,confirmation
+Dawukou,China,39.38N,106.13E,28,2,12,False,2,False,False,confirmation
+Dayton,United States,39.38N,83.24W,81,1,2,False,1,False,False,confirmation
+Dehra Dun,India,29.74N,77.54E,38,3,1,False,2,False,False,confirmation
+Delmas,Haiti,18.48N,72.68W,20,12,12,True,0,False,False,confirmation
+Deoria,India,26.52N,84.18E,43,1,1,True,0,False,False,confirmation
+Derby,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,confirmation
+Des Moines,United States,40.99N,93.73W,83,1,2,False,1,False,False,confirmation
+Dewas,India,23.31N,76.02E,43,1,1,True,0,False,False,confirmation
+Dharmavaram,India,15.27N,77.50E,43,1,1,True,0,False,False,confirmation
+Dhule,India,20.09N,75.07E,43,1,1,True,0,False,False,confirmation
+Didao,China,45.81N,130.38E,20,1,1,True,0,False,False,confirmation
+Dindigul,India,10.45N,77.73E,43,2,7,False,5,False,False,confirmation
+Dordrecht,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,confirmation
+Dos Hermanas,Spain,37.78N,6.10W,97,1,1,True,0,False,False,confirmation
+Duma,Syria,32.95N,37.34E,37,12,12,True,0,False,False,confirmation
+Durg,India,21.70N,80.48E,43,1,1,True,0,False,False,confirmation
+Durgapur,India,23.31N,86.50E,43,1,1,True,0,False,False,confirmation
+Durrës,Albania,40.99N,19.17E,97,1,1,True,0,False,False,confirmation
+Dzerzhinsk,Russia,57.05N,42.79E,97,1,12,False,1,False,False,confirmation
+Edinburgh,United Kingdom,55.45N,2.83W,97,1,1,True,0,False,False,confirmation
+Eindhoven,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,confirmation
+Elblag,Poland,53.84N,20.45E,97,1,1,True,0,False,False,confirmation
+Elista,Russia,45.81N,45.00E,68,2,12,False,2,False,False,confirmation
+Elizabeth,United States,40.99N,74.56W,81,1,2,False,1,False,False,confirmation
+Emmen,Netherlands,52.24N,7.88E,97,1,1,True,0,False,False,confirmation
+Erlangen,Germany,49.03N,9.80E,97,2,1,False,1,False,False,confirmation
+Erode,India,12.05N,77.26E,43,2,7,False,5,False,False,confirmation
+Erzincan,Turkey,39.38N,39.54E,56,1,12,False,1,False,False,confirmation
+Erzurum,Turkey,39.38N,41.62E,49,1,12,False,1,False,False,confirmation
+Eskisehir,Turkey,39.38N,31.21E,95,1,1,True,0,False,False,confirmation
+Espoo,Finland,60.27N,25.95E,97,1,1,True,0,False,False,confirmation
+Essen,Germany,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Faridabad,India,28.13N,77.27E,43,3,1,False,2,False,False,confirmation
+Firozabad,India,26.52N,78.81E,43,3,1,False,2,False,False,confirmation
+Flint,United States,42.59N,82.91W,83,1,2,False,1,False,False,confirmation
+Florence,Italy,44.20N,11.18E,97,1,1,True,0,False,False,confirmation
+Focsani,Romania,45.81N,26.54E,97,1,12,False,1,False,False,confirmation
+Foggia,Italy,40.99N,14.91E,97,1,1,True,0,False,False,confirmation
+Fort Collins,United States,40.99N,104.38W,29,12,2,False,2,False,False,confirmation
+Fuyu,China,45.81N,125.77E,29,1,1,True,0,False,False,confirmation
+Galati,Romania,45.81N,28.85E,97,1,12,False,1,False,False,confirmation
+Gangapur,India,26.52N,77.01E,43,2,1,False,1,False,False,confirmation
+Garza García,Mexico,26.52N,100.30W,22,1,11,False,2,False,False,confirmation
+Gaya,India,24.92N,85.12E,43,1,1,True,0,False,False,confirmation
+Gdansk,Poland,53.84N,17.73E,97,1,1,True,0,False,False,confirmation
+Gdynia,Poland,53.84N,17.73E,97,1,1,True,0,False,False,confirmation
+General Escobedo,Mexico,26.52N,100.30W,22,1,11,False,2,False,False,confirmation
+Gent,Belgium,50.63N,3.80E,97,1,1,True,0,False,False,confirmation
+Ghaziabad,India,28.13N,77.27E,43,3,1,False,2,False,False,confirmation
+Ghazipur,India,24.92N,83.35E,43,1,1,True,0,False,False,confirmation
+Gijón,Spain,44.20N,6.71W,97,1,1,True,0,False,False,confirmation
+Gillingham,United Kingdom,50.63N,1.27E,97,1,1,True,0,False,False,confirmation
+Gliwice,Poland,50.63N,19.01E,97,1,1,True,0,False,False,confirmation
+Gloucester,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,confirmation
+Gomel,Belarus,52.24N,31.53E,97,1,12,False,1,False,False,confirmation
+Gonbad E Qabus,Iran,37.78N,54.92E,22,12,12,True,0,False,False,confirmation
+Gonda,India,26.52N,82.39E,43,1,1,True,0,False,False,confirmation
+Gorzow Wielkopolski,Poland,52.24N,15.77E,97,1,1,True,0,False,False,confirmation
+Granada,Spain,37.78N,4.07W,97,1,1,True,0,False,False,confirmation
+Grand Rapids,United States,42.59N,85.09W,83,1,2,False,1,False,False,confirmation
+Greensboro,United States,36.17N,79.56W,81,1,2,False,1,False,False,confirmation
+Groningen,Netherlands,53.84N,6.82E,97,1,1,True,0,False,False,confirmation
+Guantánamo,Cuba,20.09N,75.07W,27,12,12,True,0,False,False,confirmation
+Gudivada,India,16.87N,80.37E,43,2,1,False,1,False,False,confirmation
+Gulbarga,India,16.87N,77.02E,43,1,1,True,0,False,False,confirmation
+Gurgaon,India,28.13N,77.27E,43,3,1,False,2,False,False,confirmation
+Guwahati,India,26.52N,91.34E,28,1,12,False,1,False,False,confirmation
+Gwalior,India,26.52N,78.81E,43,3,1,False,2,False,False,confirmation
+Gyor,Hungary,47.42N,17.76E,97,1,1,True,0,False,False,confirmation
+Gyumri,Armenia,40.99N,44.73E,49,1,12,False,1,False,False,confirmation
+Göttingen,Germany,52.24N,10.51E,97,1,1,True,0,False,False,confirmation
+Haarlem,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,confirmation
+Haarlemmermeer,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,confirmation
+Habra,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Haibowan,China,39.38N,106.13E,28,2,12,False,2,False,False,confirmation
+Hailun,China,47.42N,126.71E,29,1,1,True,0,False,False,confirmation
+Haldia,India,21.70N,87.40E,43,1,1,True,0,False,False,confirmation
+Halle,Germany,50.63N,11.41E,97,1,1,True,0,False,False,confirmation
+Hamadan,Iran,34.56N,48.65E,24,1,12,False,1,False,False,confirmation
+Hamilton,Canada,42.59N,80.73W,83,1,2,False,1,False,False,confirmation
+Hapur,India,28.13N,77.27E,43,3,1,False,2,False,False,confirmation
+Hardoi,India,26.52N,80.60E,43,1,1,True,0,False,False,confirmation
+Hassan,India,13.66N,76.79E,43,1,7,False,6,False,False,confirmation
+Hathras,India,28.13N,77.27E,43,3,1,False,2,False,False,confirmation
+Hazaribag,India,23.31N,84.76E,43,1,1,True,0,False,False,confirmation
+Hegang,China,47.42N,131.45E,20,1,1,True,0,False,False,confirmation
+Heidelberg,Germany,49.03N,9.80E,97,2,1,False,1,False,False,confirmation
+Heihe,Russia,50.63N,128.03E,29,1,1,True,0,False,False,confirmation
+Heilbronn,Germany,49.03N,9.80E,97,2,1,False,1,False,False,confirmation
+Hengshan,China,45.81N,130.38E,20,1,1,True,0,False,False,confirmation
+Henzada,Burma,16.87N,95.44E,43,1,1,True,0,False,False,confirmation
+Herne,Germany,52.24N,7.88E,97,1,1,True,0,False,False,confirmation
+Hialeah,United States,26.52N,80.60W,70,1,12,False,1,False,False,confirmation
+Hindupur,India,13.66N,76.79E,43,1,7,False,6,False,False,confirmation
+Hohhot,China,40.99N,110.77E,28,2,1,False,1,False,False,confirmation
+Holguín,Cuba,20.09N,76.78W,27,12,12,True,0,False,False,confirmation
+Hollywood,United States,26.52N,80.60W,70,1,12,False,1,False,False,confirmation
+Honggang,China,45.81N,125.77E,29,1,1,True,0,False,False,confirmation
+Houston,United States,29.74N,96.00W,30,1,2,False,1,False,False,confirmation
+Huangcun,China,39.38N,116.53E,27,2,12,False,2,False,False,confirmation
+Hubli,India,15.27N,75.83E,43,1,1,True,0,False,False,confirmation
+Huelva,Spain,37.78N,6.10W,97,1,1,True,0,False,False,confirmation
+Hulan Ergi,China,47.42N,124.34E,29,1,1,True,0,False,False,confirmation
+Huntsville,United States,34.56N,85.62W,81,1,2,False,1,False,False,confirmation
+Hyderabad,India,16.87N,78.70E,43,2,1,False,1,False,False,confirmation
+Hyderabad,Pakistan,24.92N,69.16E,41,3,1,False,2,False,False,confirmation
+Iasi,Romania,47.42N,27.24E,97,1,12,False,1,False,False,confirmation
+Idlib,Syria,36.17N,35.80E,55,12,12,True,0,False,False,confirmation
+Independence,United States,39.38N,93.64W,74,1,2,False,1,False,False,confirmation
+Indianapolis,United States,39.38N,85.32W,81,1,2,False,1,False,False,confirmation
+Ingolstadt,Germany,49.03N,12.24E,97,1,1,True,0,False,False,confirmation
+Ingraj Bazar,India,24.92N,88.67E,43,3,1,False,2,False,False,confirmation
+Innsbruck,Austria,47.42N,10.66E,97,2,1,False,1,False,False,confirmation
+Irbil,Iraq,36.17N,43.76E,35,12,12,True,0,False,False,confirmation
+Iráklion,Greece,34.56N,25.30E,76,1,3,False,2,False,False,confirmation
+Istanbul,Turkey,40.99N,29.82E,97,1,12,False,1,False,False,confirmation
+Izhevsk,Russia,57.05N,54.59E,95,12,12,True,0,False,False,confirmation
+Izmir,Turkey,37.78N,26.44E,97,1,1,True,0,False,False,confirmation
+Jackson,United States,32.95N,90.96W,72,1,2,False,1,False,False,confirmation
+Jacksonville,United States,29.74N,81.23W,81,2,12,False,2,False,False,confirmation
+Jalna,India,20.09N,75.07E,43,1,1,True,0,False,False,confirmation
+Jalpaiguri,India,26.52N,89.55E,41,1,1,True,0,False,False,confirmation
+Jamalpur,Bangladesh,24.92N,90.44E,43,1,1,True,0,False,False,confirmation
+Jamshedpur,India,23.31N,86.50E,43,1,1,True,0,False,False,confirmation
+Jamuria,India,23.31N,86.50E,43,1,1,True,0,False,False,confirmation
+Jaunpur,India,26.52N,82.39E,43,1,1,True,0,False,False,confirmation
+Jersey City,United States,40.99N,74.56W,81,1,2,False,1,False,False,confirmation
+Jerusalem,Israel,31.35N,35.81E,36,12,3,False,3,False,False,confirmation
+Jetpur,India,21.70N,70.10E,41,1,1,True,0,False,False,confirmation
+Jhansi,India,24.92N,78.03E,43,"1,2",1,True,0,True,False,confirmation
+Jiamusi,China,47.42N,131.45E,20,1,1,True,0,False,False,confirmation
+Jinxi,China,40.99N,121.42E,28,2,12,False,2,False,False,confirmation
+Jiutai,China,44.20N,125.22E,28,12,1,False,1,False,False,confirmation
+Jodhpur,India,26.52N,73.43E,43,3,1,False,2,False,False,confirmation
+Joliet,United States,40.99N,87.34W,83,1,2,False,1,False,False,confirmation
+Junagadh,India,21.70N,70.10E,41,1,1,True,0,False,False,confirmation
+Kakinada,India,16.87N,82.05E,43,2,1,False,1,False,False,confirmation
+Kaliningrad,Russia,55.45N,19.84E,97,1,1,True,0,False,False,confirmation
+Kalisz,Poland,52.24N,18.39E,97,1,1,True,0,False,False,confirmation
+Kalmunai,Sri Lanka,7.23N,81.89E,43,2,1,False,1,False,False,confirmation
+Kalol,India,23.31N,72.52E,43,1,1,True,0,False,False,confirmation
+Kaluga,Russia,53.84N,36.82E,97,1,12,False,1,False,False,confirmation
+Kamyshin,Russia,50.63N,44.37E,95,2,12,False,2,False,False,confirmation
+Kanchrapara,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Kanpur,India,26.52N,80.60E,43,1,1,True,0,False,False,confirmation
+Kansas City,United States,39.38N,93.64W,74,1,2,False,1,False,False,confirmation
+Karachi,Pakistan,24.92N,67.39E,39,2,12,False,2,False,False,confirmation
+Karaj,Iran,36.17N,51.71E,22,1,12,False,1,False,False,confirmation
+Karaman,Turkey,37.78N,32.54E,72,1,12,False,1,False,False,confirmation
+Karlsruhe,Germany,49.03N,7.35E,97,1,1,True,0,False,False,confirmation
+Karnal,India,29.74N,77.54E,38,3,1,False,2,False,False,confirmation
+Kashipur,India,29.74N,79.38E,42,3,1,False,2,False,False,confirmation
+Kathmandu,Nepal,28.13N,84.55E,43,1,1,True,0,False,False,confirmation
+Katihar,India,24.92N,86.90E,43,1,1,True,0,False,False,confirmation
+Kaunas,Lithuania,55.45N,22.68E,97,1,1,True,0,False,False,confirmation
+Kecskemét,Hungary,47.42N,20.13E,97,1,1,True,0,False,False,confirmation
+Kemerovo,Russia,55.45N,85.04E,29,1,1,True,0,False,False,confirmation
+Kenitra,Morocco,34.56N,5.84W,97,1,1,True,0,False,False,confirmation
+Kerch,Ukraine,45.81N,35.77E,97,1,12,False,1,False,False,confirmation
+Kermanshah,Iran,34.56N,46.70E,26,12,12,True,0,False,False,confirmation
+Khabarovsk,Russia,49.03N,134.69E,20,1,1,True,0,False,False,confirmation
+Kharagpur,India,21.70N,87.40E,43,1,1,True,0,False,False,confirmation
+Khimki,Russia,55.45N,36.85E,97,1,12,False,1,False,False,confirmation
+Khoy,Iran,37.78N,44.75E,38,12,12,True,0,False,False,confirmation
+Khulna,Bangladesh,23.31N,90.00E,43,1,1,True,0,False,False,confirmation
+Kiel,Germany,53.84N,9.55E,97,1,1,True,0,False,False,confirmation
+Kiev,Ukraine,50.63N,31.69E,97,1,12,False,1,False,False,confirmation
+Killeen,United States,31.35N,98.01W,30,1,2,False,1,False,False,confirmation
+Kingston,Jamaica,18.48N,76.06W,21,12,12,True,0,False,False,confirmation
+Klaipeda,Lithuania,55.45N,19.84E,97,1,1,True,0,False,False,confirmation
+Knoxville,United States,36.17N,83.54W,81,1,2,False,1,False,False,confirmation
+Kochi,India,10.45N,76.09E,41,2,7,False,5,False,False,confirmation
+Kolar,India,13.66N,78.44E,43,1,7,False,6,False,False,confirmation
+Kolhapur,India,16.87N,73.67E,43,1,1,True,0,False,False,confirmation
+Kolpino,Russia,60.27N,29.19E,97,2,1,False,1,False,False,confirmation
+Komsomolsk Na Amure,Russia,50.63N,138.17E,20,1,1,True,0,False,False,confirmation
+Korba,India,21.70N,82.21E,43,2,1,False,1,False,False,confirmation
+Korla,China,40.99N,85.21E,20,2,3,False,1,False,False,confirmation
+Kostroma,Russia,57.05N,39.84E,97,1,12,False,1,False,False,confirmation
+Koszalin,Poland,53.84N,15.00E,97,1,1,True,0,False,False,confirmation
+Kotte,Sri Lanka,7.23N,80.27E,43,2,1,False,1,False,False,confirmation
+Kragujevac,Serbia,44.20N,20.12E,97,1,1,True,0,False,False,confirmation
+Krasnoyarsk,Russia,55.45N,93.54E,29,1,1,True,0,False,False,confirmation
+Kremenchuk,Ukraine,49.03N,34.29E,97,1,12,False,1,False,False,confirmation
+Krishnanagar,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Kulti,India,23.31N,86.50E,43,1,1,True,0,False,False,confirmation
+Kumanovo,Macedonia,42.59N,21.82E,97,1,1,True,0,False,False,confirmation
+Kumbakonam,India,10.45N,79.36E,43,2,7,False,5,False,False,confirmation
+Kurgan,Russia,55.45N,65.20E,37,1,12,False,1,False,False,confirmation
+Kursk,Russia,52.24N,36.79E,97,1,12,False,1,False,False,confirmation
+Kyzyl,Russia,52.24N,94.60E,29,1,1,True,0,False,False,confirmation
+Kütahya,Turkey,39.38N,29.13E,97,1,12,False,1,False,False,confirmation
+La Ceiba,Honduras,15.27N,87.50W,21,12,12,True,0,False,False,confirmation
+La Vega,Dominican Republic,18.48N,70.99W,20,12,12,True,0,False,False,confirmation
+Lakhnau,India,26.52N,80.60E,43,1,1,True,0,False,False,confirmation
+Lansing,United States,42.59N,85.09W,83,1,2,False,1,False,False,confirmation
+Lanzhou,China,36.17N,103.43E,22,2,12,False,2,False,False,confirmation
+Laredo,United States,28.13N,99.09W,26,1,11,False,2,False,False,confirmation
+Las Palmas,Spain,28.13N,15.45W,35,1,12,False,1,False,False,confirmation
+Latina,Italy,40.99N,12.78E,97,1,1,True,0,False,False,confirmation
+Latur,India,18.48N,76.06E,43,1,1,True,0,False,False,confirmation
+Lausanne,Switzerland,45.81N,5.77E,97,1,1,True,0,False,False,confirmation
+Leeds,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,confirmation
+Leganés,Spain,40.99N,4.26W,97,1,1,True,0,False,False,confirmation
+Leghorn,Italy,44.20N,11.18E,97,1,1,True,0,False,False,confirmation
+Leicester,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,confirmation
+Leiden,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,confirmation
+Leverkusen,Germany,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Lexington Fayette,United States,37.78N,85.42W,81,1,2,False,1,False,False,confirmation
+León,Spain,42.59N,6.55W,97,1,1,True,0,False,False,confirmation
+Lille,France,50.63N,3.80E,97,1,1,True,0,False,False,confirmation
+Lincoln,United States,40.99N,95.86W,76,2,2,True,0,False,False,confirmation
+Lisbon,Portugal,39.38N,8.32W,97,1,1,True,0,False,False,confirmation
+Little Rock,United States,34.56N,91.46W,74,1,2,False,1,False,False,confirmation
+Liverpool,United Kingdom,53.84N,4.09W,97,1,1,True,0,False,False,confirmation
+Liège,Belgium,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Lleida,Spain,40.99N,0.00W,97,1,1,True,0,False,False,confirmation
+London,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,confirmation
+Longjiang,China,47.42N,124.34E,29,1,1,True,0,False,False,confirmation
+Loni,India,28.13N,77.27E,43,3,1,False,2,False,False,confirmation
+Lubbock,United States,32.95N,102.45W,28,1,2,False,1,False,False,confirmation
+Lvov,Ukraine,50.63N,24.08E,97,1,1,True,0,False,False,confirmation
+Lyubertsy,Russia,55.45N,36.85E,97,1,12,False,1,False,False,confirmation
+Lárisa,Greece,39.38N,22.89E,97,1,1,True,0,False,False,confirmation
+Maastricht,Netherlands,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Madanapalle,India,13.66N,78.44E,43,1,7,False,6,False,False,confirmation
+Madhyamgram,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Madurai,India,10.45N,77.73E,43,2,7,False,5,False,False,confirmation
+Magdeburg,Germany,52.24N,10.51E,97,1,1,True,0,False,False,confirmation
+Mahesana,India,23.31N,72.52E,43,1,1,True,0,False,False,confirmation
+Mainz,Germany,50.63N,8.87E,97,1,1,True,0,False,False,confirmation
+Makhachkala,Russia,42.59N,48.00E,49,1,12,False,1,False,False,confirmation
+Malatya,Turkey,37.78N,38.64E,44,12,12,True,0,False,False,confirmation
+Manbij,Syria,36.17N,37.79E,42,12,12,True,0,False,False,confirmation
+Mandsaur,India,24.92N,74.48E,43,1,1,True,0,False,False,confirmation
+Mandya,India,12.05N,77.26E,43,2,7,False,5,False,False,confirmation
+Mangaluru,India,13.66N,75.14E,43,2,1,False,1,False,False,confirmation
+Marand,Iran,39.38N,45.78E,38,1,12,False,1,False,False,confirmation
+Marbella,Spain,36.17N,3.98W,97,1,1,True,0,False,False,confirmation
+Marseille,France,42.59N,6.55E,97,1,1,True,0,False,False,confirmation
+Mau,India,26.52N,84.18E,43,1,1,True,0,False,False,confirmation
+Mawlamyine,Burma,16.87N,97.12E,40,1,12,False,1,False,False,confirmation
+Maykop,Russia,44.20N,40.25E,90,1,12,False,1,False,False,confirmation
+Mazyr,Belarus,52.24N,28.91E,97,1,1,True,0,False,False,confirmation
+Mersin,Turkey,36.17N,33.81E,62,12,12,True,0,False,False,confirmation
+Mesquite,United States,32.95N,96.70W,30,12,2,False,2,False,False,confirmation
+Messina,Italy,37.78N,16.27E,97,1,1,True,0,False,False,confirmation
+Metz,France,49.03N,7.35E,97,1,1,True,0,False,False,confirmation
+Mezhdurechensk,Russia,53.84N,88.64E,29,1,1,True,0,False,False,confirmation
+Miandoab,Iran,36.17N,45.75E,27,12,12,True,0,False,False,confirmation
+Milan,Italy,45.81N,8.08E,97,1,1,True,0,False,False,confirmation
+Milwaukee,United States,42.59N,87.27W,83,1,2,False,1,False,False,confirmation
+Minneapolis,United States,45.81N,93.46W,83,1,2,False,1,False,False,confirmation
+Minsk,Belarus,53.84N,28.64E,97,1,1,True,0,False,False,confirmation
+Mirzapur,India,24.92N,83.35E,43,1,1,True,0,False,False,confirmation
+Miskolc,Hungary,47.42N,20.13E,97,1,1,True,0,False,False,confirmation
+Mobile,United States,31.35N,88.59W,72,1,2,False,1,False,False,confirmation
+Modena,Italy,44.20N,11.18E,97,1,1,True,0,False,False,confirmation
+Moers,Germany,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Montgomery,United States,32.95N,87.13W,81,1,2,False,1,False,False,confirmation
+Monza,Italy,45.81N,10.38E,97,1,1,True,0,False,False,confirmation
+Moradabad,India,28.13N,79.09E,43,3,1,False,2,False,False,confirmation
+Mormugao,India,15.27N,74.17E,43,2,1,False,1,False,False,confirmation
+Moscow,Russia,55.45N,36.85E,97,1,12,False,1,False,False,confirmation
+Mostar,Bosnia And Herzegovina,42.59N,17.45E,97,1,1,True,0,False,False,confirmation
+Motihari,India,26.52N,84.18E,43,1,1,True,0,False,False,confirmation
+Mulhouse,France,47.42N,8.29E,97,2,1,False,1,False,False,confirmation
+Munger,India,24.92N,86.90E,43,1,1,True,0,False,False,confirmation
+Munich,Germany,47.42N,10.66E,97,2,1,False,1,False,False,confirmation
+Murom,Russia,55.45N,42.52E,97,1,12,False,1,False,False,confirmation
+Muzaffarpur,India,26.52N,85.97E,43,1,1,True,0,False,False,confirmation
+Mytishchi,Russia,55.45N,36.85E,97,1,12,False,1,False,False,confirmation
+Móstoles,Spain,40.99N,4.26W,97,1,1,True,0,False,False,confirmation
+Mönchengladbach,Germany,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Mülheim,Germany,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Münster,Germany,52.24N,7.88E,97,1,1,True,0,False,False,confirmation
+Nador,Morocco,34.56N,3.89W,97,1,1,True,0,False,False,confirmation
+Nagda,India,23.31N,76.02E,43,1,1,True,0,False,False,confirmation
+Nagpur,India,21.70N,78.75E,43,1,1,True,0,False,False,confirmation
+Nalchik,Russia,42.59N,43.64E,49,12,12,True,0,False,False,confirmation
+Nalgonda,India,16.87N,78.70E,43,2,1,False,1,False,False,confirmation
+Namur,Belgium,50.63N,3.80E,97,1,1,True,0,False,False,confirmation
+Nancy,France,49.03N,7.35E,97,1,1,True,0,False,False,confirmation
+Nanded,India,18.48N,77.75E,43,1,1,True,0,False,False,confirmation
+Nangloi Jat,India,28.13N,77.27E,43,3,1,False,2,False,False,confirmation
+Nanpiao,China,40.99N,121.42E,28,2,12,False,2,False,False,confirmation
+Naples,Italy,40.99N,14.91E,97,1,1,True,0,False,False,confirmation
+Narayanganj,Bangladesh,23.31N,90.00E,43,1,1,True,0,False,False,confirmation
+Nashville,United States,36.17N,87.51W,81,1,2,False,1,False,False,confirmation
+Nassau,Bahamas,24.92N,78.03W,50,2,12,False,2,False,False,confirmation
+Navadwip,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Navsari,India,20.09N,73.36E,43,1,1,True,0,False,False,confirmation
+Nefteyugansk,Russia,61.88N,73.02E,37,1,12,False,1,False,False,confirmation
+New Haven,United States,40.99N,72.43W,81,1,2,False,1,False,False,confirmation
+New Orleans,United States,29.74N,90.46W,40,1,2,False,1,False,False,confirmation
+New York,United States,40.99N,74.56W,81,1,2,False,1,False,False,confirmation
+Newcastle Upon Tyne,United Kingdom,55.45N,2.83W,97,1,1,True,0,False,False,confirmation
+Newport,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,confirmation
+Newport News,United States,37.78N,77.29W,81,1,2,False,1,False,False,confirmation
+Neyveli,India,12.05N,78.90E,43,1,7,False,6,False,False,confirmation
+Nice,France,44.20N,6.71E,97,1,1,True,0,False,False,confirmation
+Nis,Serbia,42.59N,21.82E,97,1,1,True,0,False,False,confirmation
+Nizamabad,India,18.48N,77.75E,43,1,1,True,0,False,False,confirmation
+Nizhniy Tagil,Russia,57.05N,60.49E,49,1,12,False,1,False,False,confirmation
+Norfolk,United States,36.17N,75.58W,81,1,2,False,1,False,False,confirmation
+Norman,United States,34.56N,97.30W,30,12,2,False,2,False,False,confirmation
+Northampton,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,confirmation
+Novara,Italy,45.81N,8.08E,97,1,1,True,0,False,False,confirmation
+Novocheboksarsk,Russia,55.45N,48.19E,95,1,12,False,1,False,False,confirmation
+Novosibirsk,Russia,55.45N,82.20E,29,1,1,True,0,False,False,confirmation
+Novotroitsk,Russia,50.63N,59.58E,45,1,12,False,1,False,False,confirmation
+Nukus,Uzbekistan,42.59N,58.91E,29,1,12,False,1,False,False,confirmation
+Nyíregyháza,Hungary,47.42N,22.50E,97,1,1,True,0,False,False,confirmation
+Oberhausen,Germany,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Obninsk,Russia,55.45N,36.85E,97,1,12,False,1,False,False,confirmation
+Odense,Denmark,55.45N,11.34E,97,1,1,True,0,False,False,confirmation
+Odintsovo,Russia,55.45N,36.85E,97,1,12,False,1,False,False,confirmation
+Offenbach,Germany,50.63N,8.87E,97,1,1,True,0,False,False,confirmation
+Oktyabrskiy,Russia,53.84N,53.18E,94,1,12,False,1,False,False,confirmation
+Oldenburg,Germany,52.24N,7.88E,97,1,1,True,0,False,False,confirmation
+Olomouc,Czech Republic,49.03N,17.14E,97,1,1,True,0,False,False,confirmation
+Omaha,United States,40.99N,95.86W,76,2,2,True,0,False,False,confirmation
+Omsk,Russia,55.45N,73.70E,34,1,12,False,1,False,False,confirmation
+Opole,Poland,50.63N,19.01E,97,1,1,True,0,False,False,confirmation
+Oradea,Romania,47.42N,22.50E,97,1,1,True,0,False,False,confirmation
+Orai,India,26.52N,78.81E,43,3,1,False,2,False,False,confirmation
+Ordu,Turkey,40.99N,38.34E,69,2,12,False,2,False,False,confirmation
+Orekhovo Zuevo,Russia,55.45N,39.69E,97,1,12,False,1,False,False,confirmation
+Orumiyeh,Iran,37.78N,44.75E,38,12,12,True,0,False,False,confirmation
+Orël,Russia,52.24N,36.79E,97,1,12,False,1,False,False,confirmation
+Osnabrück,Germany,52.24N,7.88E,97,1,1,True,0,False,False,confirmation
+Ostrava,Czech Republic,50.63N,19.01E,97,1,1,True,0,False,False,confirmation
+Ottawa,Canada,45.81N,75.00W,83,1,2,False,1,False,False,confirmation
+Oulu,Finland,65.09N,24.89E,97,1,1,True,0,False,False,confirmation
+Oviedo,Spain,42.59N,6.55W,97,1,1,True,0,False,False,confirmation
+Pabna,Bangladesh,23.31N,90.00E,43,1,1,True,0,False,False,confirmation
+Padova,Italy,45.81N,12.69E,97,1,1,True,0,False,False,confirmation
+Pakokku,Burma,21.70N,94.33E,40,1,1,True,0,False,False,confirmation
+Palakkad,India,10.45N,76.09E,41,2,7,False,5,False,False,confirmation
+Palermo,Italy,37.78N,14.24E,97,1,1,True,0,False,False,confirmation
+Pali,India,26.52N,73.43E,43,3,1,False,2,False,False,confirmation
+Pallavaram,India,13.66N,80.09E,43,2,7,False,5,False,False,confirmation
+Panipat,India,29.74N,77.54E,38,3,1,False,2,False,False,confirmation
+Panvel,India,18.48N,72.68E,43,1,1,True,0,False,False,confirmation
+Parbhani,India,20.09N,76.78E,43,1,1,True,0,False,False,confirmation
+Parma,Italy,44.20N,11.18E,97,1,1,True,0,False,False,confirmation
+Pasadena,United States,29.74N,96.00W,30,1,2,False,1,False,False,confirmation
+Pathein,Burma,16.87N,95.44E,43,1,1,True,0,False,False,confirmation
+Peking,China,39.38N,116.53E,27,2,12,False,2,False,False,confirmation
+Pembroke Pines,United States,26.52N,80.60W,70,1,12,False,1,False,False,confirmation
+Penza,Russia,53.84N,45.00E,95,2,12,False,2,False,False,confirmation
+Peoria,United States,40.99N,89.47W,83,1,2,False,1,False,False,confirmation
+Peristérion,Greece,37.78N,24.41E,97,1,1,True,0,False,False,confirmation
+Perpignan,France,42.59N,2.18E,97,1,1,True,0,False,False,confirmation
+Perugia,Italy,42.59N,13.09E,97,1,1,True,0,False,False,confirmation
+Pervouralsk,Russia,57.05N,60.49E,49,1,12,False,1,False,False,confirmation
+Pescara,Italy,42.59N,15.27E,97,1,1,True,0,False,False,confirmation
+Peterborough,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,confirmation
+Petrozavodsk,Russia,61.88N,35.66E,97,1,1,True,0,False,False,confirmation
+Philadelphia,United States,39.38N,74.91W,81,1,2,False,1,False,False,confirmation
+Pilibhit,India,28.13N,79.09E,43,3,1,False,2,False,False,confirmation
+Pinar Del Río,Cuba,21.70N,83.94W,27,12,12,True,0,False,False,confirmation
+Pingliang,China,36.17N,107.40E,22,2,12,False,2,False,False,confirmation
+Pitesti,Romania,44.20N,24.60E,97,1,1,True,0,False,False,confirmation
+Plano,United States,32.95N,96.70W,30,12,2,False,2,False,False,confirmation
+Plock,Poland,52.24N,18.39E,97,1,1,True,0,False,False,confirmation
+Plovdiv,Bulgaria,42.59N,24.00E,97,1,1,True,0,False,False,confirmation
+Plymouth,United Kingdom,50.63N,3.80W,97,1,1,True,0,False,False,confirmation
+Podgorica,Montenegro,42.59N,19.64E,97,1,1,True,0,False,False,confirmation
+Poltava,Ukraine,49.03N,34.29E,97,1,12,False,1,False,False,confirmation
+Ponnani,India,10.45N,76.09E,41,2,7,False,5,False,False,confirmation
+Port Blair,India,12.05N,92.05E,43,1,1,True,0,False,False,confirmation
+Port Said,Egypt,31.35N,32.04E,43,12,3,False,3,False,False,confirmation
+Portmore,Jamaica,18.48N,76.06W,21,12,12,True,0,False,False,confirmation
+Porto,Portugal,40.99N,8.52W,97,1,1,True,0,False,False,confirmation
+Portsmouth,United Kingdom,50.63N,1.27W,97,1,1,True,0,False,False,confirmation
+Poznan,Poland,52.24N,15.77E,97,1,1,True,0,False,False,confirmation
+Prato,Italy,44.20N,11.18E,97,1,1,True,0,False,False,confirmation
+Preston,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,confirmation
+Pristina,Serbia,42.59N,21.82E,97,1,1,True,0,False,False,confirmation
+Prokopyevsk,Russia,53.84N,85.91E,29,1,1,True,0,False,False,confirmation
+Pudukkottai,India,10.45N,79.36E,43,2,7,False,5,False,False,confirmation
+Pueblo,United States,37.78N,103.73W,29,12,2,False,2,False,False,confirmation
+Puri,India,20.09N,85.31E,43,2,1,False,1,False,False,confirmation
+Pyatigorsk,Russia,44.20N,42.48E,72,1,12,False,1,False,False,confirmation
+Pécs,Hungary,45.81N,17.31E,97,1,1,True,0,False,False,confirmation
+Pétionville,Haiti,18.48N,72.68W,20,12,12,True,0,False,False,confirmation
+Qabis,Tunisia,34.56N,9.73E,97,1,1,True,0,False,False,confirmation
+Qalyub,Egypt,29.74N,31.38E,38,12,3,False,3,False,False,confirmation
+Qarchak,Iran,36.17N,51.71E,22,1,12,False,1,False,False,confirmation
+Qitaihe,China,45.81N,130.38E,20,1,1,True,0,False,False,confirmation
+Queluz,Portugal,39.38N,8.32W,97,1,1,True,0,False,False,confirmation
+Raiganj,India,24.92N,88.67E,43,3,1,False,2,False,False,confirmation
+Raigarh,India,21.70N,83.94E,43,1,1,True,0,False,False,confirmation
+Raipur,India,21.70N,82.21E,43,2,1,False,1,False,False,confirmation
+Rajkot,India,21.70N,70.10E,41,1,1,True,0,False,False,confirmation
+Rajshahi,Bangladesh,24.92N,88.67E,43,3,1,False,2,False,False,confirmation
+Ramat Gan,Israel,32.95N,35.43E,41,12,12,True,0,False,False,confirmation
+Rampur,India,28.13N,79.09E,43,3,1,False,2,False,False,confirmation
+Ranghulu,China,47.42N,124.34E,29,1,1,True,0,False,False,confirmation
+Raniganj,India,23.31N,86.50E,43,1,1,True,0,False,False,confirmation
+Ratisbon,Germany,49.03N,12.24E,97,1,1,True,0,False,False,confirmation
+Ratlam,India,23.31N,74.27E,43,1,1,True,0,False,False,confirmation
+Raurkela,India,21.70N,85.67E,43,1,1,True,0,False,False,confirmation
+Recklinghausen,Germany,52.24N,7.88E,97,1,1,True,0,False,False,confirmation
+Remscheid,Germany,50.63N,6.34E,97,1,1,True,0,False,False,confirmation
+Rennes,France,47.42N,1.18W,97,1,1,True,0,False,False,confirmation
+Rewa,India,24.92N,81.58E,43,1,1,True,0,False,False,confirmation
+Richmond,United States,37.78N,77.29W,81,1,2,False,1,False,False,confirmation
+Riga,Latvia,57.05N,25.08E,97,1,1,True,0,False,False,confirmation
+Rivne,Ukraine,50.63N,26.62E,97,1,1,True,0,False,False,confirmation
+Robertsonpet,India,13.66N,78.44E,43,1,7,False,6,False,False,confirmation
+Rochester,United States,42.59N,78.55W,83,1,2,False,1,False,False,confirmation
+Rockford,United States,42.59N,89.45W,83,1,2,False,1,False,False,confirmation
+Rohtak,India,28.13N,77.27E,43,3,1,False,2,False,False,confirmation
+Rome,Italy,42.59N,13.09E,97,1,1,True,0,False,False,confirmation
+Rostock,Germany,53.84N,12.27E,97,1,1,True,0,False,False,confirmation
+Rostov Na Donu,Russia,47.42N,39.08E,96,1,12,False,1,False,False,confirmation
+Rotherham,United Kingdom,53.84N,1.36W,97,1,1,True,0,False,False,confirmation
+Rubtsovsk,Russia,52.24N,81.46E,29,1,1,True,0,False,False,confirmation
+Ruse,Bulgaria,44.20N,26.83E,97,1,12,False,1,False,False,confirmation
+Rybinsk,Russia,58.66N,40.00E,97,1,12,False,1,False,False,confirmation
+Sabadell,Spain,40.99N,2.13E,97,1,1,True,0,False,False,confirmation
+Sabha,Libya,26.52N,14.33E,56,12,1,False,1,False,False,confirmation
+Saharanpur,India,29.74N,77.54E,38,3,1,False,2,False,False,confirmation
+Saint Louis,United States,39.38N,89.48W,81,1,2,False,1,False,False,confirmation
+Saint Petersburg,United States,28.13N,82.73W,79,1,12,False,1,False,False,confirmation
+Salamanca,Spain,40.99N,6.39W,97,1,1,True,0,False,False,confirmation
+Salzburg,Austria,47.42N,13.03E,97,1,1,True,0,False,False,confirmation
+Salzgitter,Germany,52.24N,10.51E,97,1,1,True,0,False,False,confirmation
+Samara,Russia,53.84N,50.45E,95,1,12,False,1,False,False,confirmation
+Sambhal,India,28.13N,79.09E,43,3,1,False,2,False,False,confirmation
+Samsun,Turkey,40.99N,36.21E,74,2,12,False,2,False,False,confirmation
+San Antonio,United States,29.74N,97.85W,28,1,2,False,1,False,False,confirmation
+San Nicolás De Los Garza,Mexico,26.52N,100.30W,22,1,11,False,2,False,False,confirmation
+Sanandaj,Iran,34.56N,46.70E,26,12,12,True,0,False,False,confirmation
+Sancti Spíritus,Cuba,21.70N,78.75W,27,12,12,True,0,False,False,confirmation
+Santiago,Dominican Republic,20.09N,69.95W,20,12,12,True,0,False,False,confirmation
+Saqqez,Iran,36.17N,45.75E,27,12,12,True,0,False,False,confirmation
+Sarajevo,Bosnia And Herzegovina,44.20N,17.89E,97,1,1,True,0,False,False,confirmation
+Sarapul,Russia,57.05N,54.59E,95,12,12,True,0,False,False,confirmation
+Saratov,Russia,52.24N,47.30E,95,2,12,False,2,False,False,confirmation
+Satara,India,16.87N,73.67E,43,1,1,True,0,False,False,confirmation
+Satkhira,Bangladesh,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Semey,Kazakhstan,50.63N,79.86E,29,12,1,False,1,False,False,confirmation
+Sergiyev Posad,Russia,57.05N,36.89E,97,1,12,False,1,False,False,confirmation
+Serpukhov,Russia,55.45N,36.85E,97,1,12,False,1,False,False,confirmation
+Seversk,Russia,57.05N,84.10E,29,1,1,True,0,False,False,confirmation
+Shakhty,Russia,47.42N,39.08E,96,1,12,False,1,False,False,confirmation
+Shantipur,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Sherbrooke,Canada,45.81N,72.69W,83,1,2,False,1,False,False,confirmation
+Sherpur,Bangladesh,24.92N,90.44E,43,1,1,True,0,False,False,confirmation
+Shiliguri,India,26.52N,87.76E,43,1,1,True,0,False,False,confirmation
+Shillong,India,24.92N,92.22E,40,1,1,True,0,False,False,confirmation
+Shizuishan,China,39.38N,106.13E,28,2,12,False,2,False,False,confirmation
+Shrirampur,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Shunyi,China,39.38N,116.53E,27,2,12,False,2,False,False,confirmation
+Sibiu,Romania,45.81N,24.23E,97,1,1,True,0,False,False,confirmation
+Siegen,Germany,50.63N,8.87E,97,1,1,True,0,False,False,confirmation
+Siirt,Turkey,37.78N,42.71E,40,12,12,True,0,False,False,confirmation
+Sikar,India,28.13N,75.45E,43,3,1,False,2,False,False,confirmation
+Silchar,India,24.92N,92.22E,40,1,1,True,0,False,False,confirmation
+Skopje,Macedonia,42.59N,21.82E,97,1,1,True,0,False,False,confirmation
+Slough,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,confirmation
+Smolensk,Russia,55.45N,31.18E,97,1,1,True,0,False,False,confirmation
+Sonipat,India,28.13N,77.27E,43,3,1,False,2,False,False,confirmation
+Sosnowiec,Poland,50.63N,19.01E,97,1,1,True,0,False,False,confirmation
+South Bend,United States,40.99N,85.21W,83,1,2,False,1,False,False,confirmation
+Southend On Sea,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,confirmation
+Split,Croatia,44.20N,15.65E,97,1,1,True,0,False,False,confirmation
+Spokane,United States,47.42N,117.24W,20,1,1,True,0,False,False,confirmation
+Springfield,United States,37.78N,93.56W,74,1,2,False,1,False,False,confirmation
+Stamford,United States,40.99N,74.56W,81,1,2,False,1,False,False,confirmation
+Stara Zagora,Bulgaria,42.59N,26.18E,97,1,12,False,1,False,False,confirmation
+Staryy Oskol,Russia,50.63N,36.76E,97,1,12,False,1,False,False,confirmation
+Stavanger,Norway,58.66N,6.15E,97,1,1,True,0,False,False,confirmation
+Stockholm,Sweden,58.66N,18.46E,97,1,1,True,0,False,False,confirmation
+Stoke On Trent,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,confirmation
+Strasbourg,France,49.03N,7.35E,97,1,1,True,0,False,False,confirmation
+Stuttgart,Germany,49.03N,9.80E,97,2,1,False,1,False,False,confirmation
+Sudbury,Canada,45.81N,81.92W,83,1,2,False,1,False,False,confirmation
+Suez,Egypt,29.74N,33.23E,37,12,3,False,3,False,False,confirmation
+Suihua,China,47.42N,126.71E,29,1,1,True,0,False,False,confirmation
+Sultanpur,India,26.52N,82.39E,43,1,1,True,0,False,False,confirmation
+Sumy,Ukraine,50.63N,34.23E,97,1,12,False,1,False,False,confirmation
+Sunderland,United Kingdom,55.45N,2.83W,97,1,1,True,0,False,False,confirmation
+Surat,India,21.70N,73.56E,43,1,1,True,0,False,False,confirmation
+Surendranagar,India,23.31N,72.52E,43,1,1,True,0,False,False,confirmation
+Suriapet,India,16.87N,80.37E,43,2,1,False,1,False,False,confirmation
+Swansea,United Kingdom,52.24N,5.26W,97,1,1,True,0,False,False,confirmation
+Swindon,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,confirmation
+Syktyvkar,Russia,61.88N,49.25E,97,1,12,False,1,False,False,confirmation
+Syracuse,Italy,37.78N,16.27E,97,1,1,True,0,False,False,confirmation
+Syracuse,United States,42.59N,76.36W,81,1,2,False,1,False,False,confirmation
+Syzran,Russia,53.84N,47.73E,95,2,12,False,2,False,False,confirmation
+Tadepallegudem,India,16.87N,82.05E,43,2,1,False,1,False,False,confirmation
+Taiyuan,China,37.78N,111.86E,27,2,12,False,2,False,False,confirmation
+Talkha,Egypt,31.35N,32.04E,43,12,3,False,3,False,False,confirmation
+Tallahassee,United States,29.74N,84.92W,79,1,12,False,1,False,False,confirmation
+Tallinn,Estonia,58.66N,24.62E,97,1,1,True,0,False,False,confirmation
+Tambaram,India,13.66N,80.09E,43,2,7,False,5,False,False,confirmation
+Tampico,Mexico,21.70N,97.79W,22,3,12,False,3,False,False,confirmation
+Tanggu,China,39.38N,118.61E,27,2,12,False,2,False,False,confirmation
+Taonan,China,45.81N,123.46E,29,1,1,True,0,False,False,confirmation
+Taranto,Italy,40.99N,17.04E,97,1,1,True,0,False,False,confirmation
+Targu Mures,Romania,45.81N,24.23E,97,1,1,True,0,False,False,confirmation
+Tarragona,Spain,40.99N,2.13E,97,1,1,True,0,False,False,confirmation
+Tartu,Estonia,58.66N,27.69E,97,1,1,True,0,False,False,confirmation
+Tartus,Syria,34.56N,35.03E,45,12,12,True,0,False,False,confirmation
+Tel Aviv Yafo,Israel,31.35N,33.93E,38,12,3,False,3,False,False,confirmation
+Tenali,India,16.87N,80.37E,43,2,1,False,1,False,False,confirmation
+Thana,India,18.48N,72.68E,43,1,1,True,0,False,False,confirmation
+Thanesar,India,29.74N,77.54E,38,3,1,False,2,False,False,confirmation
+Thanjavur,India,10.45N,79.36E,43,2,7,False,5,False,False,confirmation
+Thaton,Burma,16.87N,97.12E,40,1,12,False,1,False,False,confirmation
+Thessaloníki,Greece,40.99N,23.43E,97,1,1,True,0,False,False,confirmation
+Thornton,United States,39.38N,104.05W,29,12,2,False,2,False,False,confirmation
+Tieli,China,47.42N,129.08E,29,1,1,True,0,False,False,confirmation
+Tieling,China,42.59N,124.36E,28,12,1,False,1,False,False,confirmation
+Tighina,Moldova,47.42N,29.61E,97,1,12,False,1,False,False,confirmation
+Timisoara,Romania,45.81N,21.92E,97,1,1,True,0,False,False,confirmation
+Tirupati,India,13.66N,80.09E,43,2,7,False,5,False,False,confirmation
+Tiruppur,India,10.45N,77.73E,43,2,7,False,5,False,False,confirmation
+Tiruvottiyur,India,13.66N,80.09E,43,2,7,False,5,False,False,confirmation
+Titagarh,India,23.31N,88.25E,43,1,1,True,0,False,False,confirmation
+Tokat,Turkey,40.99N,36.21E,74,2,12,False,2,False,False,confirmation
+Toledo,United States,40.99N,83.08W,81,1,2,False,1,False,False,confirmation
+Tolyatti,Russia,53.84N,50.45E,95,1,12,False,1,False,False,confirmation
+Tomsk,Russia,57.05N,84.10E,29,1,1,True,0,False,False,confirmation
+Tongliao,China,44.20N,122.98E,28,2,1,False,1,False,False,confirmation
+Topeka,United States,39.38N,95.72W,46,1,2,False,1,False,False,confirmation
+Toulon,France,42.59N,6.55E,97,1,1,True,0,False,False,confirmation
+Toulouse,France,44.20N,2.24E,97,1,1,True,0,False,False,confirmation
+Toungoo,Burma,18.48N,96.34E,40,1,12,False,1,False,False,confirmation
+Trabzon,Turkey,40.99N,40.47E,60,2,12,False,2,False,False,confirmation
+Trier,Germany,49.03N,7.35E,97,1,1,True,0,False,False,confirmation
+Trieste,Italy,45.81N,12.69E,97,1,1,True,0,False,False,confirmation
+Tripoli,Libya,32.95N,12.45E,97,1,1,True,0,False,False,confirmation
+Trondheim,Norway,63.49N,9.00E,97,1,2,False,1,False,False,confirmation
+Tubruq,Libya,31.35N,24.50E,56,1,3,False,2,False,False,confirmation
+Tumkur,India,13.66N,76.79E,43,1,7,False,6,False,False,confirmation
+Tungi,Bangladesh,23.31N,90.00E,43,1,1,True,0,False,False,confirmation
+Tunis,Tunisia,36.17N,9.94E,97,1,1,True,0,False,False,confirmation
+Turgutlu,Turkey,37.78N,28.47E,95,1,1,True,0,False,False,confirmation
+Turhal,Turkey,40.99N,36.21E,74,2,12,False,2,False,False,confirmation
+Turku,Finland,60.27N,22.70E,97,1,1,True,0,False,False,confirmation
+Tuzla,Bosnia And Herzegovina,44.20N,17.89E,97,1,1,True,0,False,False,confirmation
+Ukhta,Russia,63.49N,52.20E,95,12,12,True,0,False,False,confirmation
+Ulaanbaatar,Mongolia,47.42N,107.76E,28,1,1,True,0,False,False,confirmation
+Ulhasnagar,India,18.48N,72.68E,43,1,1,True,0,False,False,confirmation
+Ulm,Germany,49.03N,9.80E,97,2,1,False,1,False,False,confirmation
+Uppsala,Sweden,60.27N,16.22E,97,1,2,False,1,False,False,confirmation
+Urfa,Turkey,37.78N,38.64E,44,12,12,True,0,False,False,confirmation
+Utrecht,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,confirmation
+Uzhhorod,Ukraine,49.03N,22.04E,97,1,1,True,0,False,False,confirmation
+Valladolid,Spain,40.99N,4.26W,97,1,1,True,0,False,False,confirmation
+Van,Turkey,37.78N,42.71E,40,12,12,True,0,False,False,confirmation
+Vanadzor,Armenia,40.99N,44.73E,49,1,12,False,1,False,False,confirmation
+Varamin,Iran,36.17N,51.71E,22,1,12,False,1,False,False,confirmation
+Varanasi,India,24.92N,83.35E,43,1,1,True,0,False,False,confirmation
+Varna,Bulgaria,42.59N,28.36E,97,1,12,False,1,False,False,confirmation
+Vejalpur,India,23.31N,74.27E,43,1,1,True,0,False,False,confirmation
+Verona,Italy,45.81N,10.38E,97,1,1,True,0,False,False,confirmation
+Vienna,Austria,49.03N,17.14E,97,1,1,True,0,False,False,confirmation
+Villeurbanne,France,45.81N,5.77E,97,1,1,True,0,False,False,confirmation
+Vilnius,Lithuania,55.45N,25.51E,97,1,1,True,0,False,False,confirmation
+Virginia Beach,United States,36.17N,75.58W,81,1,2,False,1,False,False,confirmation
+Visakhapatnam,India,18.48N,82.82E,43,2,1,False,1,False,False,confirmation
+Vladikavkaz,Russia,42.59N,43.64E,49,12,12,True,0,False,False,confirmation
+Vladimir,Russia,55.45N,39.69E,97,1,12,False,1,False,False,confirmation
+Volgodonsk,Russia,47.42N,41.45E,95,1,12,False,1,False,False,confirmation
+Volzhskiy,Russia,49.03N,44.08E,95,2,12,False,2,False,False,confirmation
+Västerås,Sweden,60.27N,16.22E,97,1,2,False,1,False,False,confirmation
+Waco,United States,31.35N,98.01W,30,1,2,False,1,False,False,confirmation
+Wahran,Algeria,36.17N,0.00W,97,1,1,True,0,False,False,confirmation
+Warangal,India,18.48N,79.44E,43,2,1,False,1,False,False,confirmation
+Wardha,India,20.09N,78.48E,43,1,1,True,0,False,False,confirmation
+Warqla,Algeria,31.35N,5.65E,97,1,1,True,0,False,False,confirmation
+Warren,United States,42.59N,82.91W,83,1,2,False,1,False,False,confirmation
+Warsaw,Poland,52.24N,21.02E,97,1,1,True,0,False,False,confirmation
+Washington,United States,39.38N,76.99W,81,1,2,False,1,False,False,confirmation
+Watford,United Kingdom,52.24N,0.00W,97,1,1,True,0,False,False,confirmation
+West Bromwich,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,confirmation
+Wichita,United States,37.78N,97.63W,35,12,2,False,2,False,False,confirmation
+Wichita Falls,United States,34.56N,99.24W,30,2,2,True,0,False,False,confirmation
+Windsor,United States,42.59N,82.91W,83,1,2,False,1,False,False,confirmation
+Winston Salem,United States,36.17N,79.56W,81,1,2,False,1,False,False,confirmation
+Witten,Germany,52.24N,7.88E,97,1,1,True,0,False,False,confirmation
+Wolfsburg,Germany,52.24N,10.51E,97,1,1,True,0,False,False,confirmation
+Worcester,United Kingdom,52.24N,2.63W,97,2,1,False,1,False,False,confirmation
+Wroclaw,Poland,50.63N,16.48E,97,1,1,True,0,False,False,confirmation
+Wulanhaote,China,45.81N,121.15E,29,2,1,False,1,False,False,confirmation
+Xining,China,36.17N,101.44E,21,2,12,False,2,False,False,confirmation
+Xinzhou,China,37.78N,111.86E,27,2,12,False,2,False,False,confirmation
+Yanan,China,36.17N,109.39E,22,2,12,False,2,False,False,confirmation
+Yelets,Russia,52.24N,39.42E,97,1,12,False,1,False,False,confirmation
+Yichun,China,47.42N,129.08E,29,1,1,True,0,False,False,confirmation
+Yining,China,44.20N,80.50E,26,12,1,False,1,False,False,confirmation
+Yonkers,United States,40.99N,74.56W,81,1,2,False,1,False,False,confirmation
+Zaporizhzhya,Ukraine,47.42N,34.34E,97,1,12,False,1,False,False,confirmation
+Zelenodolsk,Russia,55.45N,48.19E,95,1,12,False,1,False,False,confirmation
+Zelenograd,Russia,55.45N,36.85E,97,1,12,False,1,False,False,confirmation
+Zenica,Bosnia And Herzegovina,44.20N,17.89E,97,1,1,True,0,False,False,confirmation
+Zhaodong,China,45.81N,125.77E,29,1,1,True,0,False,False,confirmation
+Zhezkazgan,Kazakhstan,47.42N,67.50E,32,2,12,False,2,False,False,confirmation
+Zhytomyr,Ukraine,50.63N,29.15E,97,1,12,False,1,False,False,confirmation
+Zielona Gora,Poland,52.24N,15.77E,97,1,1,True,0,False,False,confirmation
+Zlatoust,Russia,55.45N,59.53E,49,1,12,False,1,False,False,confirmation
+Zuwarah,Libya,32.95N,12.45E,97,1,1,True,0,False,False,confirmation
+Zwolle,Netherlands,52.24N,5.26E,97,1,1,True,0,False,False,confirmation
+Çorlu,Turkey,40.99N,27.69E,97,1,12,False,1,False,False,confirmation
+Çorum,Turkey,40.99N,34.08E,95,1,12,False,1,False,False,confirmation

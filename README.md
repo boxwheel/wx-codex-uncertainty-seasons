@@ -9,7 +9,12 @@ downloaded or inspected. The frozen development split (781 coordinate entities)
 points opposite the candidate: maxima matched in 432/781 entities (55.31%, 95%
 bootstrap CI 51.86–58.77%) versus a random-relabeling mean of 8.39%; mean circular
 distance was only 0.720 months (95% CI 0.644–0.796) versus null 2.997. Confirmation
-had not been opened when this checkpoint was committed.
+had not been opened when checkpoint `e39fcaa` was committed.
+
+The untouched confirmation split reproduced the reversal: 438/792 (55.30%, 95%
+CI 51.77–58.71%) and mean distance 0.717 months (95% CI 0.643–0.795), versus
+random-label means 8.37% and 2.998 months. The frozen separation hypothesis is
+therefore **REFUTED**. See `RESULTS.md` for scope, falsification, and caveats.
 
 Reproduce the development checkpoint:
 

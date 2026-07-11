@@ -1,0 +1,29 @@
+{
+  "n_entities": 792,
+  "complete_years_min": 20,
+  "complete_years_median": 72.0,
+  "complete_years_max": 97,
+  "exact_matches": 438,
+  "exact_match_fraction": 0.553030303030303,
+  "exact_match_bootstrap_95_ci": [
+    0.5176767676767676,
+    0.5871212121212122
+  ],
+  "mean_circular_distance_months": 0.7171717171717171,
+  "distance_bootstrap_95_ci": [
+    0.6426767676767676,
+    0.7954545454545454
+  ],
+  "null_match_mean": 0.08370858585858587,
+  "null_distance_mean": 2.9976631313131317,
+  "p_fewer_matches": 1.0,
+  "p_larger_distance": 1.0,
+  "uncertainty_ties": 3,
+  "variability_ties": 0,
+  "seed": 2859,
+  "draws": 20000,
+  "split": "confirmation",
+  "window": "1750-1849",
+  "min_complete_years": 20,
+  "input_sha256": "9be86b51487f10e811a0ab43a75946739dfe7bea2342ddcd1f6bc48d51b8c493"
+}
